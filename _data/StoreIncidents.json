@@ -112,7 +112,7 @@
 	},
 	{
 		"abr": "resourcepodcrash",
-		"price": 300,
+		"price": 500,
 		"karmatype": "Good"
 	},
 	{
@@ -129,11 +129,6 @@
 		"abr": "meteor",
 		"price": 150,
 		"karmatype": "Neutral"
-	},
-	{
-		"abr": "maninblack",
-		"price": 3000,
-		"karmatype": "Good"
 	},
 	{
 		"abr": "madanimal",
@@ -276,11 +271,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "pawn",
-		"price": 1,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "levelskill",
 		"price": 1500,
 		"karmatype": "Good"
@@ -302,7 +292,7 @@
 	},
 	{
 		"abr": "prisoner",
-		"price": 800,
+		"price": 3200,
 		"karmatype": "Good"
 	},
 	{
@@ -436,5 +426,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 87
+	"total": 85
 }
