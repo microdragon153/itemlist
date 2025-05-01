@@ -408,7 +408,7 @@
       "addPrice": 1000,
       "removePrice": 1000,
       "degree": 0,
-      "description": "Timmy is romantically attracted to people of his own gender.",
+      "description": "Timmy is romantically and sexually attracted to people of his own gender.",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
@@ -430,7 +430,7 @@
       "addPrice": 1000,
       "removePrice": 1000,
       "degree": 0,
-      "description": "Timmy is romantically attracted to both men and women.",
+      "description": "Timmy is romantically and sexually attracted to people regardless of gender.",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
@@ -452,7 +452,7 @@
       "addPrice": 1000,
       "removePrice": 1000,
       "degree": 0,
-      "description": "Timmy has no sexual attraction to anyone at all.",
+      "description": "Timmy is uninterested in sexual or romantic engagements.",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
@@ -3917,106 +3917,6 @@
       "name": "schizoid"
     },
     {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
-      "degree": 0,
-      "description": "Timmy is romantically attracted to people of the opposite gender.\n((RF) Rational Romance (Continued))",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "[RF] Rational Romance (Continued)",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Straight",
-      "name": "straight"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 4000,
-      "removePrice": 5000,
-      "degree": 0,
-      "description": "Timmy will never cheat on a partner, no matter how bad the relationship gets.\n((RF) Rational Romance (Continued))",
-      "stats": [],
-      "conflicts": [
-        "philanderer"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "philanderer"
-        ],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "[RF] Rational Romance (Continued)",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Faithful",
-      "name": "faithful"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 4000,
-      "removePrice": 5000,
-      "degree": 0,
-      "description": "Timmy just cannot be trusted to stay faithful to a partner.\n((RF) Rational Romance (Continued))",
-      "stats": [],
-      "conflicts": [
-        "faithful"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "faithful"
-        ],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "[RF] Rational Romance (Continued)",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Philanderer",
-      "name": "philanderer"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
-      "degree": 0,
-      "description": "Timmy prefers romantic relationships involving multiple partners to monogamous relationships. he doesn't mind if his partners romance other people, but will be less happy in a restraining, monogamous relationship.\n((RF) Rational Romance (Continued))",
-      "stats": [],
-      "conflicts": [
-        "asexual"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "asexual"
-        ],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "[RF] Rational Romance (Continued)",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Polyamorous",
-      "name": "polyamorous"
-    },
-    {
       "canAdd": false,
       "canRemove": true,
       "addPrice": 4000,
@@ -4267,6 +4167,146 @@
       },
       "defName": "LCK_Soldier",
       "name": "soldier"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is romantically and sexually attracted to people of the opposite gender.\n(Way Better Romance)",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Way Better Romance",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Straight",
+      "name": "straight"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is uninterested in sexual engagements, but is romantically attracted to people of the opposite gender.\n(Way Better Romance)",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Way Better Romance",
+        "karmaTypeForAdding": null
+      },
+      "defName": "HeteroAce",
+      "name": "asexual(hetero)"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is uninterested in sexual engagements, but is romantically attracted to people of his own gender.\n(Way Better Romance)",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Way Better Romance",
+        "karmaTypeForAdding": null
+      },
+      "defName": "HomoAce",
+      "name": "asexual(homo)"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is uninterested in sexual engagements, but is romantically attracted to people regardless of gender.\n(Way Better Romance)",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Way Better Romance",
+        "karmaTypeForAdding": null
+      },
+      "defName": "BiAce",
+      "name": "asexual(bi)"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy will never cheat on a partner, no matter how bad the relationship gets.\n(Way Better Romance)",
+      "stats": [],
+      "conflicts": [
+        "philanderer"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "philanderer"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Way Better Romance",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Faithful",
+      "name": "faithful"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy just cannot be trusted to stay faithful to a partner.\n(Way Better Romance)",
+      "stats": [],
+      "conflicts": [
+        "faithful"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "faithful"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Way Better Romance",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Philanderer",
+      "name": "philanderer"
     }
   ],
   "races": [
