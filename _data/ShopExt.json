@@ -800,7 +800,7 @@
       "addPrice": 5000,
       "removePrice": 5000,
       "degree": 0,
-      "description": "Timmy has a fantastic memory for detail. he will learn new skills slightly faster than other people.",
+      "description": "Timmy has a fantastic memory for detail. he will lose unused skills at half the rate of other people.",
       "stats": [
         "+25% global learning factor"
       ],
@@ -1973,28 +1973,6 @@
       "name": "voidfascination"
     },
     {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 4000,
-      "removePrice": 5000,
-      "degree": 0,
-      "description": "Timmy enjoys the solitude and tranquility inherent to long fishing sessions. he will prefer fishing above other activities.\n(Vanilla Fishing Expanded)",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Fishing Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VCEF_Fisherman",
-      "name": "fisherman"
-    },
-    {
       "canAdd": false,
       "canRemove": false,
       "addPrice": 4000,
@@ -2015,94 +1993,6 @@
       },
       "defName": "VPE_Thrall",
       "name": "thrall"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 4000,
-      "removePrice": 5000,
-      "degree": 2,
-      "description": "Timmy is obsessed with germs and will wash much more frequently than normal.\n(Dubs Bad Hygiene)",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Dubs Bad Hygiene",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Hygienic",
-      "name": "germaphobe"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 5000,
-      "removePrice": 5000,
-      "degree": 1,
-      "description": "Timmy is very hygienic and will wash more frequently.\n(Dubs Bad Hygiene)",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Dubs Bad Hygiene",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Hygienic",
-      "name": "hygienic"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 4000,
-      "removePrice": 5000,
-      "degree": -1,
-      "description": "Timmy is very unhygienic and will wash less frequently.\n(Dubs Bad Hygiene)",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Dubs Bad Hygiene",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Hygienic",
-      "name": "unhygienic"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 4000,
-      "removePrice": 5000,
-      "degree": -2,
-      "description": "Timmy has very low standards of cleanliness and will only wash when they absolutely have to.\n(Dubs Bad Hygiene)",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Dubs Bad Hygiene",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Hygienic",
-      "name": "slob"
     },
     {
       "canAdd": true,
@@ -2237,80 +2127,6 @@
       },
       "defName": "ViolentMind",
       "name": "violentmind"
-    },
-    {
-      "canAdd": false,
-      "canRemove": false,
-      "addPrice": 4000,
-      "removePrice": 5000,
-      "degree": 3,
-      "description": "Timmy is an ally who will one day join your faction.\n(Reunion)",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Reunion",
-        "karmaTypeForAdding": null
-      },
-      "defName": "ReunionCharacter",
-      "name": "ally"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 8000,
-      "removePrice": 5000,
-      "degree": 2,
-      "description": "Timmy possesses an unnatural, almost pristine beauty that makes him stand out among others of his kind.\n(Alpha Genes)",
-      "stats": [
-        "+3.0 beauty"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "+3.0 beauty"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Alpha Genes",
-        "karmaTypeForAdding": null
-      },
-      "defName": "AG_Beauty",
-      "name": "angelicbeauty"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3000,
-      "removePrice": 5000,
-      "degree": -2,
-      "description": "Timmy is so unfathomably ugly and grotesque that merely looking at him is enough to make other people nauseous.\n(Alpha Genes)",
-      "stats": [
-        "-3.0 beauty"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "-3.0 beauty"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Alpha Genes",
-        "karmaTypeForAdding": null
-      },
-      "defName": "AG_Beauty",
-      "name": "repulsive"
     },
     {
       "canAdd": true,
@@ -3947,232 +3763,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy has a great sense for structural planning and aesthetic design, making them excellent a building both functional and beautiful things.\n((LYN) Add-On for Vanilla Traits Expanded (Unoffical Update))",
-      "stats": [
-        "+4 construction",
-        "+4 artistic",
-        "+20% smoothing speed",
-        "+20% construction speed"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "+4 construction",
-          "+4 artistic",
-          "+20% smoothing speed",
-          "+20% construction speed"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "[LYN] Add-On for Vanilla Traits Expanded (Unoffical Update)",
-        "karmaTypeForAdding": null
-      },
-      "defName": "LCK_Architect",
-      "name": "architect"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy has an excellent understanding of anatomy. This makes them an excellent surgeon - and a deadly assassin.\n((LYN) Add-On for Vanilla Traits Expanded (Unoffical Update))",
-      "stats": [
-        "+4 melee",
-        "+4 medical",
-        "+20% surgery success chance factor",
-        "+2.00 melee DPS"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "+4 melee",
-          "+4 medical",
-          "+20% surgery success chance factor",
-          "+2.00 melee DPS"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "[LYN] Add-On for Vanilla Traits Expanded (Unoffical Update)",
-        "karmaTypeForAdding": null
-      },
-      "defName": "LCK_Assassin",
-      "name": "anatomist"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy has a lot of knowledge about herbs and spices, and know how to use them to cook incredibly tasty meals.\n((LYN) Add-On for Vanilla Traits Expanded (Unoffical Update))",
-      "stats": [
-        "+4 cooking",
-        "+4 plants",
-        "+20% plant work speed",
-        "-20.00% food poison chance"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "+4 cooking",
-          "+4 plants",
-          "+20% plant work speed",
-          "-20.00% food poison chance"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "[LYN] Add-On for Vanilla Traits Expanded (Unoffical Update)",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_Herbalist",
-      "name": "herbalist"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy is skilled at hunting wild animals. They know how to blend in the environment and shoot with perfect accuracy.\n((LYN) Add-On for Vanilla Traits Expanded (Unoffical Update))",
-      "stats": [
-        "+4 shooting",
-        "+4 animals",
-        "+20% hunting stealth",
-        "+2.0 shooting accuracy"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "+4 shooting",
-          "+4 animals",
-          "+20% hunting stealth",
-          "+2.0 shooting accuracy"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "[LYN] Add-On for Vanilla Traits Expanded (Unoffical Update)",
-        "karmaTypeForAdding": null
-      },
-      "defName": "LCK_Hunter",
-      "name": "hunter"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy has spent a lot of time learning, both by reading books and by talking with other people. They are well-spoken and have a brilliant mind.\n((LYN) Add-On for Vanilla Traits Expanded (Unoffical Update))",
-      "stats": [
-        "+4 social",
-        "+4 intellectual",
-        "+20% global learning factor",
-        "+20.00% social impact"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "+4 social",
-          "+4 intellectual",
-          "+20% global learning factor",
-          "+20.00% social impact"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "[LYN] Add-On for Vanilla Traits Expanded (Unoffical Update)",
-        "karmaTypeForAdding": null
-      },
-      "defName": "LCK_Professor",
-      "name": "erudite"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy is good at extracting compacted metals from ancient ruins and turning them into useful works of crafstmanship - and faster than most people.\n((LYN) Add-On for Vanilla Traits Expanded (Unoffical Update))",
-      "stats": [
-        "+4 crafting",
-        "+4 mining",
-        "+20% mining speed",
-        "x120% global work speed"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "+4 crafting",
-          "+4 mining",
-          "+20% mining speed",
-          "x120% global work speed"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "[LYN] Add-On for Vanilla Traits Expanded (Unoffical Update)",
-        "karmaTypeForAdding": null
-      },
-      "defName": "LCK_Scavenger",
-      "name": "scavenger"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy have had training with both melee and ranged weapons before. After fighting many battles, they became an experienced combatant.\n((LYN) Add-On for Vanilla Traits Expanded (Unoffical Update))",
-      "stats": [
-        "+4 melee",
-        "+4 shooting",
-        "+20% pain shock threshold",
-        "x80% incoming damage multiplier"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "+4 melee",
-          "+4 shooting",
-          "+20% pain shock threshold",
-          "x80% incoming damage multiplier"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "[LYN] Add-On for Vanilla Traits Expanded (Unoffical Update)",
-        "karmaTypeForAdding": null
-      },
-      "defName": "LCK_Soldier",
-      "name": "soldier"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1000,
+      "removePrice": 1000,
       "degree": 0,
       "description": "Timmy is romantically and sexually attracted to people of the opposite gender.\n(Way Better Romance)",
       "stats": [],
@@ -4193,8 +3785,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1000,
+      "removePrice": 1000,
       "degree": 0,
       "description": "Timmy is uninterested in sexual engagements, but is romantically attracted to people of the opposite gender.\n(Way Better Romance)",
       "stats": [],
@@ -4215,8 +3807,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1000,
+      "removePrice": 1000,
       "degree": 0,
       "description": "Timmy is uninterested in sexual engagements, but is romantically attracted to people of his own gender.\n(Way Better Romance)",
       "stats": [],
@@ -4237,8 +3829,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1000,
+      "removePrice": 1000,
       "degree": 0,
       "description": "Timmy is uninterested in sexual engagements, but is romantically attracted to people regardless of gender.\n(Way Better Romance)",
       "stats": [],
@@ -4307,6 +3899,72 @@
       },
       "defName": "Philanderer",
       "name": "philanderer"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is entombed in a warcasket. No amount of pain will have an effect on them, and they can never go into a pain shock or drop unconscious due to pain. Because of how bulky the armor is and how much energy it takes to use it, Timmy is not capable of doing any work.\n(Vanilla Factions Expanded - Pirates)",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Factions Expanded - Pirates",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VFEP_WarcasketTrait",
+      "name": "warcasket"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy was entombed in a warcasket, and then brutally pulled out of one. The neural and nerve damage from being unplugged is so severe that Timmy is in constant, agonizing pain and can barely assemble his thoughts. Only installing Timmy back in a warcasket can cure the symptoms.\n(Vanilla Factions Expanded - Pirates)",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Factions Expanded - Pirates",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VFEP_Shellcasket",
+      "name": "shellcasket"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is entombed in a mech master warcasket. No amount of pain will have an effect on them, and they can never go into a pain shock or drop unconscious due to pain. Timmy will be unable to do most tasks, except those necessary to maintain and build mechanoids.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Unknown",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VFEP_WarcasketTrait_Mech",
+      "name": "mechwarcasket"
     }
   ],
   "races": [
@@ -4321,7 +3979,8 @@
           "+28.8F Min comfortable temperature",
           "+46.8F Max comfortable temperature",
           "+75 Leather amount",
-          "+3 Honor value"
+          "+3 Honor value",
+          "+75% Wildness"
         ],
         "mod": "Unknown",
         "karmaType": null
@@ -4343,7 +4002,8 @@
           "+28.8F Min comfortable temperature",
           "+46.8F Max comfortable temperature",
           "+75 Leather amount",
-          "+3 Honor value"
+          "+3 Honor value",
+          "+75% Wildness"
         ],
         "mod": "Unknown",
         "karmaType": null
