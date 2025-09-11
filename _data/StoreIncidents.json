@@ -2,12 +2,12 @@
 	"incitems" : [
 	{
 		"abr": "tornado",
-		"price": 8000,
+		"price": 16000,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "tornados",
-		"price": 8000,
+		"price": 16000,
 		"karmatype": "Bad"
 	},
 	{
@@ -136,11 +136,6 @@
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "maninblack",
-		"price": 7000,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "madanimal",
 		"price": 200,
 		"karmatype": "Bad"
@@ -168,11 +163,6 @@
 	{
 		"abr": "farmanimals",
 		"price": 400,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "wildman",
-		"price": 300,
 		"karmatype": "Good"
 	},
 	{
@@ -278,11 +268,6 @@
 	{
 		"abr": "reviveanypawn",
 		"price": 6000,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "pawn",
-		"price": 1,
 		"karmatype": "Good"
 	},
 	{
@@ -441,5 +426,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 88
+	"total": 85
 }

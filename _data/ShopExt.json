@@ -2228,7 +2228,7 @@
       "addPrice": 2500,
       "removePrice": 3000,
       "degree": 0,
-      "description": "Timmy tends to occasionally allow their mind to drift, even in the middle of working.\n(Vanilla Traits Expanded)",
+      "description": "Timmy tends to let his mind drift, even in the middle of work. he may sometimes stop tasks at random.\n(Vanilla Traits Expanded)",
       "stats": [
         "x50% global certainty loss factor"
       ],
@@ -2258,7 +2258,7 @@
       "addPrice": 3000,
       "removePrice": 3000,
       "degree": 0,
-      "description": "Timmy has a loose screw or two, a small trade off for being naturally scientifically inclined.\n(Vanilla Traits Expanded)",
+      "description": "Timmy has a screw loose, but it comes with a sharper scientific mind.\n(Vanilla Traits Expanded)",
       "stats": [
         "x115% research speed"
       ],
@@ -2288,7 +2288,7 @@
       "addPrice": 4000,
       "removePrice": 3000,
       "degree": 0,
-      "description": "Timmy strives for perfection in his work. They will naturally produce better quality products at the expense of time. However, making a low quality product will upset them. Additionally, they may very rarely quit a project mid attempt if they don't like the direction its going in.\n(Vanilla Traits Expanded)",
+      "description": "Timmy strives for perfection in his work. he produces higher-quality products, but works more slowly. Failing to meet his standards causes unhappiness, and on rare occasions he may abandon a project mid-way.\n(Vanilla Traits Expanded)",
       "stats": [
         "x65% global work speed"
       ],
@@ -2314,7 +2314,7 @@
       "addPrice": 2500,
       "removePrice": 3000,
       "degree": 0,
-      "description": "While fully capable of warfare in theory, Timmy's fight or flight instincts heavily lean towards flight, and he will try to hide or run as a first priority.\n(Vanilla Traits Expanded)",
+      "description": "Timmy's instincts lean heavily toward cowardice. In danger, he will often hide or run before standing to fight.\n(Vanilla Traits Expanded)",
       "stats": [
         "Shoot frenzy inspiration disabled.",
         "Melee frenzy inspiration disabled."
@@ -2350,7 +2350,7 @@
       "addPrice": 4000,
       "removePrice": 3000,
       "degree": 0,
-      "description": "Timmy has a higher mental and physical fortitude compared to most and can more readily adapt to harsh environments in the rimworlds.\n(Vanilla Traits Expanded)",
+      "description": "Timmy has stronger mental and physical fortitude than most. he can endure pain more readily, and is slower to break under harsh conditions.\n(Vanilla Traits Expanded)",
       "stats": [
         "-20% mental break threshold",
         "+20% pain shock threshold",
@@ -2394,7 +2394,7 @@
       "addPrice": 2500,
       "removePrice": 3000,
       "degree": 0,
-      "description": "Minor bruises and scrapes plague Timmy all too often, mostly due to uncoordinated tripping or falling.\n(Vanilla Traits Expanded)",
+      "description": "Minor bruises and scrapes plague Timmy, usually from tripping or falling due to poor coordination.\n(Vanilla Traits Expanded)",
       "stats": [],
       "conflicts": [
         "nimble"
@@ -2420,7 +2420,7 @@
       "addPrice": 3000,
       "removePrice": 3000,
       "degree": 0,
-      "description": "Timmy loves the brightness and heat of a dry summer day. They don't mind working up a sweat or sleeping in the warmth either.\n(Vanilla Traits Expanded)",
+      "description": "Timmy enjoys the heat of a dry summer day. he doesn't mind working up a sweat or sleeping in warmth.\n(Vanilla Traits Expanded)",
       "stats": [
         "+18.0F max comfortable temperature"
       ],
@@ -2446,7 +2446,7 @@
       "addPrice": 3000,
       "removePrice": 3000,
       "degree": 0,
-      "description": "Timmy loves the overcast and cold of a brisk winter night. They don't mind getting chilly or sleeping in the cold either.\n(Vanilla Traits Expanded)",
+      "description": "Timmy enjoys the chill of a brisk winter night. he doesn't mind shivering or sleeping in the cold.\n(Vanilla Traits Expanded)",
       "stats": [
         "-18.0F min comfortable temperature"
       ],
@@ -2472,7 +2472,7 @@
       "addPrice": 3000,
       "removePrice": 3000,
       "degree": 0,
-      "description": "A bomb could go off next to Timmy while they sleep and they'd continue to do so. They can't be bothered to defend the colony mid catnap, either.\n(Vanilla Traits Expanded)",
+      "description": "A bomb could go off beside Timmy while he sleeps, and he would keep right on sleeping. he can't be bothered to work or defend the colony mid-nap.\n(Vanilla Traits Expanded)",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
@@ -2494,7 +2494,7 @@
       "addPrice": 3000,
       "removePrice": 3000,
       "degree": 0,
-      "description": "Timmy is naturally hygenic and organized. They will not track in dirt or throw trash anywhere, and feel happy while cleaning.\n(Vanilla Traits Expanded)",
+      "description": "Timmy is naturally hygienic and organized. he doesn't track dirt or scatter trash, and enjoys cleaning.\n(Vanilla Traits Expanded)",
       "stats": [],
       "conflicts": [
         "slob"
@@ -2520,7 +2520,7 @@
       "addPrice": 3000,
       "removePrice": 3000,
       "degree": 0,
-      "description": "Timmy is sloppy naturally and leaves trash and dirt everywhere it seems. At least they're not much bothered by messes.\n(Vanilla Traits Expanded)",
+      "description": "Timmy is naturally sloppy, leaving trash and dirt scattered around. At least he isn't much bothered by messy surroundings.\n(Vanilla Traits Expanded)",
       "stats": [],
       "conflicts": [
         "neat"
@@ -2546,7 +2546,7 @@
       "addPrice": 3500,
       "removePrice": 3000,
       "degree": 0,
-      "description": "Timmy has problems taking breaks or resting mid job. he will continue to work even sacrificing their health or sleep.\n(Vanilla Traits Expanded)",
+      "description": "Timmy struggles to take breaks or rest mid-job. he will keep working, even at the expense of his health or sleep.\n(Vanilla Traits Expanded)",
       "stats": [],
       "conflicts": [
         "absent-minded"
@@ -2572,7 +2572,7 @@
       "addPrice": 3500,
       "removePrice": 3000,
       "degree": 0,
-      "description": "Timmy has never felt nausea in his life. Throwing up or food poisoning is foreign to him.\n(Vanilla Traits Expanded)",
+      "description": "Timmy has never known nausea. Food poisoning and vomiting are foreign to him.\n(Vanilla Traits Expanded)",
       "stats": [],
       "conflicts": [
         "squeamish"
@@ -2598,7 +2598,7 @@
       "addPrice": 3000,
       "removePrice": 3000,
       "degree": 0,
-      "description": "Timmy can't stand mistreatment of animals. he will feel happier being nuzzled or being a master to a bonded animal, but will be more deeply crushed when not master of a bonded animal or seeing one die. They also refuse to butcher.\n(Vanilla Traits Expanded)",
+      "description": "Timmy can't stand cruelty toward animals. he feels happier when nuzzled or acting as master to a tamed animal, but is more deeply upset when losing one. he also refuses to butcher animals.\n(Vanilla Traits Expanded)",
       "stats": [],
       "conflicts": [
         "animalhater"
@@ -2624,7 +2624,7 @@
       "addPrice": 2500,
       "removePrice": 3000,
       "degree": 0,
-      "description": "Timmy believes deeply in human superiority. Killing animals will please them and the colony losing an animal is a cherry on top according to them.\n(Vanilla Traits Expanded)",
+      "description": "Timmy believes in human superiority over animals. he dislikes bonding or being nuzzled, but feels satisfaction when animals die or are sold.\n(Vanilla Traits Expanded)",
       "stats": [
         "Inspired taming inspiration disabled."
       ],
@@ -2660,7 +2660,7 @@
       "addPrice": 2500,
       "removePrice": 3000,
       "degree": 0,
-      "description": "Whether because they're a bit chunky or because they shift their weight oddly, Timmy has broken a few chairs in their time and is likely to break more.\n(Vanilla Traits Expanded)",
+      "description": "Whether from bulk or awkward posture, Timmy has broken a few chairs in his time, and is likely to break more.\n(Vanilla Traits Expanded)",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
@@ -2682,7 +2682,7 @@
       "addPrice": 3000,
       "removePrice": 3000,
       "degree": 0,
-      "description": "Timmy only plays by their own rules, and will roll their eyes and take it easy while doing any task they've been forced to do.\n(Vanilla Traits Expanded)",
+      "description": "Timmy only plays by his own rules. When forced, he will drag his feet and work more slowly.\n(Vanilla Traits Expanded)",
       "stats": [
         "x25% global certainty loss factor"
       ],
@@ -2712,7 +2712,7 @@
       "addPrice": 3000,
       "removePrice": 3000,
       "degree": 0,
-      "description": "Timmy needs clear instructions on how, and when to do certain things and will only work at a normal speed when being forced to do something.\n(Vanilla Traits Expanded)",
+      "description": "Timmy needs clear direction on when and how to act. he works at normal speed only when ordered, and otherwise slows down.\n(Vanilla Traits Expanded)",
       "stats": [
         "x200% global certainty loss factor"
       ],
@@ -2742,7 +2742,7 @@
       "addPrice": 2500,
       "removePrice": 3000,
       "degree": 0,
-      "description": "Timmy is fueled by spite. They can't stand walking on the same soil as their rivals and will be elated by news of their life ending.\n(Vanilla Traits Expanded)",
+      "description": "Timmy is fueled by spite. he can’t stand sharing the colony with rivals, and feels happier when one of them dies.\n(Vanilla Traits Expanded)",
       "stats": [
         "x25% global certainty loss factor"
       ],
@@ -2772,7 +2772,7 @@
       "addPrice": 3000,
       "removePrice": 3000,
       "degree": 0,
-      "description": "Whether by past trauma or fear of change, Timmy rejects modernity. They may randomly punch or attack mechanical devices and refuse to learn or research anything about them. They also love killing mechanoids.\n(Vanilla Traits Expanded)",
+      "description": "Whether from trauma or fear of change, Timmy rejects modernity. he may lash out at machines, refuses to research, and feels satisfaction from destroying mechanoids.\n(Vanilla Traits Expanded)",
       "stats": [
         "Inspired research inspiration disabled.",
         "Only mental break \"VTE_TechnophobeTantrum\" allowed."
@@ -2804,7 +2804,7 @@
       "addPrice": 3000,
       "removePrice": 3000,
       "degree": 0,
-      "description": "Timmy always recalls the good times and lives to party, any party attended will be remembered for many times longer than most.\n(Vanilla Traits Expanded)",
+      "description": "Timmy lives for a good time. he remembers parties fondly, and the joy lasts far longer than it does for most.\n(Vanilla Traits Expanded)",
       "stats": [
         "Group meditation focus type allowed."
       ],
@@ -2834,7 +2834,7 @@
       "addPrice": 2500,
       "removePrice": 3000,
       "degree": 0,
-      "description": "Timmy has hindered mental capacities. While slow to learn and hard to speak with, they tend to be much happier naturally.\n(Vanilla Traits Expanded)",
+      "description": "Timmy has limited mental capacity. he learns slowly and struggles with conversation, but tends to be naturally happy.\n(Vanilla Traits Expanded)",
       "stats": [
         "Natural meditation focus type allowed.",
         "-50% global learning factor",
@@ -2880,7 +2880,7 @@
       "addPrice": 3000,
       "removePrice": 3000,
       "degree": 0,
-      "description": "Timmy learned a specific move in melee combat which allows them to disarm opponents and will use it frequently.\n(Vanilla Traits Expanded)",
+      "description": "Timmy has trained in melee combat and learned a special move to disarm opponents.\n(Vanilla Traits Expanded)",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
@@ -2928,7 +2928,7 @@
       "addPrice": 3000,
       "removePrice": 3000,
       "degree": 0,
-      "description": "Sour stomach plagues Timmy any time they're around too much blood or rotting corpses. Vomiting is just part of life for him.\n(Vanilla Traits Expanded)",
+      "description": "Timmy gets a sour stomach around blood or corpses. Vomiting is just part of life for him.\n(Vanilla Traits Expanded)",
       "stats": [],
       "conflicts": [
         "desensitized",
@@ -2958,7 +2958,7 @@
       "addPrice": 2500,
       "removePrice": 3000,
       "degree": 0,
-      "description": "Timmy feels naturally anxious, but especially from social situations. They will not attend any gatherings and may occasionally need alone time in their room to breathe.\n(Vanilla Traits Expanded)",
+      "description": "Timmy is naturally anxious, especially in social situations. he avoids gatherings and sometimes retreats to his room to cope.\n(Vanilla Traits Expanded)",
       "stats": [
         "Inspired recruitment inspiration disabled.",
         "Party frenzy inspiration disabled.",
@@ -2996,7 +2996,7 @@
       "addPrice": 3000,
       "removePrice": 3000,
       "degree": 0,
-      "description": "No amount of lovin' is enough lovin' for Timmy. he will tend to jump from partner to partner and tumble between the sheets with them frequently.\n(Vanilla Traits Expanded)",
+      "description": "No amount of lovin’ is ever enough for Timmy. he tends to move between partners and seeks intimacy often.\n(Vanilla Traits Expanded)",
       "stats": [
         "x200% global certainty loss factor"
       ],
@@ -3028,7 +3028,7 @@
       "addPrice": 3000,
       "removePrice": 3000,
       "degree": 0,
-      "description": "Timmy refuses to give their body to anybody but their spouse and would never fathom initiating a divorce. They also hate being nude much more than other pawns.\n(Vanilla Traits Expanded)",
+      "description": "Timmy gives his body only to a spouse and would never initiate divorce. he also dislikes nudity more than most.\n(Vanilla Traits Expanded)",
       "stats": [
         "Flirting frenzy inspiration disabled.",
         "x50% global certainty loss factor"
@@ -3062,7 +3062,7 @@
       "addPrice": 2500,
       "removePrice": 3000,
       "degree": 0,
-      "description": "An armchair and flatscreen is all Timmy needs to be happy. Even reruns or ancient commercials are entertaining to them, they will never grow bored of television and tend to watch it more, as well as feel pleased after doing so.\n(Vanilla Traits Expanded)",
+      "description": "An armchair and a screen are all Timmy needs to be happy. he never tires of watching television, and always feels good after.\n(Vanilla Traits Expanded)",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
@@ -3084,7 +3084,7 @@
       "addPrice": 3000,
       "removePrice": 3000,
       "degree": 0,
-      "description": "Timmy is mad for all things feline. They will naturally gravitate towards bonding with cats, however they're not a fan of dogs.\n(Vanilla Traits Expanded)",
+      "description": "Timmy enjoys the company of cats and gravitates toward bonding with them, but dislikes dogs.\n(Vanilla Traits Expanded)",
       "stats": [],
       "conflicts": [
         "dogperson"
@@ -3110,7 +3110,7 @@
       "addPrice": 3000,
       "removePrice": 3000,
       "degree": 0,
-      "description": "Timmy is mad for all things canine. They will naturally gravitate towards bonding with dogs, however they're not a fan of cats.\n(Vanilla Traits Expanded)",
+      "description": "Timmy enjoys the company of dogs and gravitates toward bonding with them, but dislikes cats.\n(Vanilla Traits Expanded)",
       "stats": [],
       "conflicts": [
         "catperson"
@@ -3136,7 +3136,7 @@
       "addPrice": 3000,
       "removePrice": 3000,
       "degree": 0,
-      "description": "Timmy is a natural scientist. They research much faster and recall things better. However, they'll be upset without a laboratory dedicated to their work and tend to stress out more frequently.\n(Vanilla Traits Expanded)",
+      "description": "Timmy has a sharp, logical mind. he researches faster than most, and his rational outlook makes him less prone to mental breaks.\n(Vanilla Traits Expanded)",
       "stats": [
         "Science meditation focus type allowed.",
         "+20% mental break threshold",
@@ -3170,7 +3170,7 @@
       "addPrice": 3000,
       "removePrice": 3000,
       "degree": 0,
-      "description": "Timmy believes animals are integral to the way society and life functions from furry friends to sources of food. They love having as many as possible and are particularly good at taming and training them.\n(Vanilla Traits Expanded)",
+      "description": "Timmy believes animals are essential to life and society. he feels happier with more of them around, and is especially skilled at taming and training.\n(Vanilla Traits Expanded)",
       "stats": [
         "x120% tame animal chance",
         "x120% train animal chance"
@@ -3202,7 +3202,7 @@
       "addPrice": 3000,
       "removePrice": 3000,
       "degree": 0,
-      "description": "The sea calls to Timmy. he feels happier just being near the ocean or a deep river.\n(Vanilla Traits Expanded)",
+      "description": "The sea calls to Timmy. he feels happier when near the ocean or a deep river.\n(Vanilla Traits Expanded)",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
@@ -3224,7 +3224,7 @@
       "addPrice": 3000,
       "removePrice": 3000,
       "degree": 0,
-      "description": "The mountains call to Timmy. he feels happier just being near a large mountain.\n(Vanilla Traits Expanded)",
+      "description": "The mountains call to Timmy. he feels happier when near a large mountain.\n(Vanilla Traits Expanded)",
       "stats": [
         "Natural meditation focus type allowed."
       ],
@@ -3250,7 +3250,7 @@
       "addPrice": 3000,
       "removePrice": 3000,
       "degree": 0,
-      "description": "Timmy has a twisted secret. he treats organ harvesting like a sick experiment, and does not even blink at the idea. While harvesting one will make them happy, going too long without giving in to their compulsion will upset them.\n(Vanilla Traits Expanded)",
+      "description": "Timmy hides a twisted obsession. he treats organ harvesting as a dark experiment and takes pleasure in it. Harvesting makes him happy, but going too long without fuels growing unrest.\n(Vanilla Traits Expanded)",
       "stats": [
         "+20% surgery success chance factor"
       ],
@@ -3276,7 +3276,7 @@
       "addPrice": 3000,
       "removePrice": 3000,
       "degree": 0,
-      "description": "Timmy is supposedly a hand-to-hand combat specialist, but only when inebriated. They claim to become more talented the more drunk they are.\n(Vanilla Traits Expanded)",
+      "description": "Timmy fights best when drunk. he grows more dangerous in melee the more intoxicated he becomes.\n(Vanilla Traits Expanded)",
       "stats": [
         "+4 melee"
       ],
@@ -3302,7 +3302,7 @@
       "addPrice": 3000,
       "removePrice": 3000,
       "degree": 0,
-      "description": "Timmy is compulsive to steal and take things that don't belong to them, even if it means angering the other party.\n(Vanilla Traits Expanded)",
+      "description": "Timmy is compelled to steal, even from guests and allies, risking angering others.\n(Vanilla Traits Expanded)",
       "stats": [
         "Only mental break \"VTE_Kleptomaniac\" allowed."
       ],
@@ -3328,7 +3328,7 @@
       "addPrice": 3000,
       "removePrice": 3000,
       "degree": 0,
-      "description": "Smokeleaf culture is just part of life for Timmy. he absolutely adores smokeleaf and would rather die before giving it up.\n(Vanilla Traits Expanded)",
+      "description": "Smokeleaf is a way of life for Timmy. he adores it and would rather die than give it up.\n(Vanilla Traits Expanded)",
       "stats": [],
       "conflicts": [
         "chemicalfascination",
@@ -3358,7 +3358,7 @@
       "addPrice": 3000,
       "removePrice": 3000,
       "degree": 0,
-      "description": "Alcohol culture is just part of life for Timmy. he absolutely adores booze and would rather die before giving it up.\n(Vanilla Traits Expanded)",
+      "description": "Alcohol is a way of life for Timmy. he adores drinking and would rather die than give it up.\n(Vanilla Traits Expanded)",
       "stats": [],
       "conflicts": [
         "chemicalfascination",
@@ -3388,7 +3388,7 @@
       "addPrice": 3000,
       "removePrice": 3000,
       "degree": 0,
-      "description": "Timmy loves to travel and does so swiftly, but can grow upset if they haven't done so in a while. They are also quite adept at foraging while traveling.\n(Vanilla Traits Expanded)",
+      "description": "Timmy loves to travel and feels happiest on the move. he grows restless when staying too long in one place, but moves quickly and forages well while caravanning.\n(Vanilla Traits Expanded)",
       "stats": [
         "+0.2 foraged food amount"
       ],
@@ -3418,7 +3418,7 @@
       "addPrice": 2500,
       "removePrice": 3000,
       "degree": 0,
-      "description": "Timmy is never really asleep or awake. he is almost zombie like, lurching along and working very slowly, and will only sleep once every three days or so.\n(Vanilla Traits Expanded)",
+      "description": "Timmy is never fully asleep or awake. he lurches along in a slow, shambler-like state, and only sleeps once every few days.\n(Vanilla Traits Expanded)",
       "stats": [
         "x50% global work speed",
         "x70% move speed",
@@ -3452,7 +3452,7 @@
       "addPrice": 3000,
       "removePrice": 3000,
       "degree": 0,
-      "description": "Timmy has grown tired of the world and needs to be constantly distracted to stop dark thoughts. his bleak personality is a big downer and therefore it is very hard to become friends with them.\n(Vanilla Traits Expanded)",
+      "description": "Timmy has grown tired of the world. he struggles with bleak thoughts, making his personality difficult to befriend.\n(Vanilla Traits Expanded)",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
@@ -3474,7 +3474,7 @@
       "addPrice": 3000,
       "removePrice": 3000,
       "degree": 0,
-      "description": "Timmy is hardened through what can only be presumed as old emotional trauma. They feel absolutely nothing from lost animals, colonists, family, prisoners or dead bodies.\n(Vanilla Traits Expanded)",
+      "description": "Timmy is hardened by old emotional trauma. he feels nothing from death or loss, whether animal, colonist, family, or prisoner.\n(Vanilla Traits Expanded)",
       "stats": [
         "x50% global certainty loss factor"
       ],
@@ -3504,7 +3504,7 @@
       "addPrice": 3000,
       "removePrice": 3000,
       "degree": 0,
-      "description": "Only the finest of culinary creations may grace the lips of Timmy. They feel neutral towards mundane meals, but will laud and savour lavish meals down to the last bite.\n(Vanilla Traits Expanded)",
+      "description": "Only the finest meals satisfy Timmy. he feels indifferent toward ordinary food, but savors lavish meals and gains greater joy from them.\n(Vanilla Traits Expanded)",
       "stats": [
         "x70% eating speed"
       ],
@@ -3534,7 +3534,7 @@
       "addPrice": 3000,
       "removePrice": 3000,
       "degree": 0,
-      "description": "Whether through studying ancient manuscripts or years of scholastic pursuit Timmy is surprisingly well read on a variety of topics, particularly science and medical practice.\n(Vanilla Traits Expanded)",
+      "description": "Through scholastic pursuit, Timmy has become well-read. he excels in science and medicine, and tends patients with greater skill.\n(Vanilla Traits Expanded)",
       "stats": [
         "Science meditation focus type allowed.",
         "+4 intellectual",
@@ -3570,7 +3570,7 @@
       "addPrice": 3000,
       "removePrice": 3000,
       "degree": 0,
-      "description": "Timmy strongly believes infrastucture rules all and is a natural born stoneworker.\n(Vanilla Traits Expanded)",
+      "description": "Timmy believes infrastructure is everything. he is a natural builder and stoneworker, constructing and mining with greater speed and efficiency.\n(Vanilla Traits Expanded)",
       "stats": [
         "+4 mining",
         "+4 construction",
@@ -3602,7 +3602,7 @@
       "addPrice": 3000,
       "removePrice": 3000,
       "degree": 0,
-      "description": "In the eyes of Timmy food is art, their culinary creations are incredibly beautiful, amazing to taste, and almost always safe to eat.\n(Vanilla Traits Expanded)",
+      "description": "To Timmy, food is art. he creates beautiful, delicious meals that are almost always safe to eat.\n(Vanilla Traits Expanded)",
       "stats": [
         "+4 cooking",
         "+4 artistic",
@@ -3632,7 +3632,7 @@
       "addPrice": 3000,
       "removePrice": 3000,
       "degree": 0,
-      "description": "Flora and fauna are both vital to Timmy. They use all parts of plants and animals and strongly appreciate mother Gaia's blessings.\n(Vanilla Traits Expanded)",
+      "description": "Flora and fauna are vital to Timmy. he uses every part of plants and animals, and appreciates nature’s gifts.\n(Vanilla Traits Expanded)",
       "stats": [
         "Natural meditation focus type allowed.",
         "+4 animals",
@@ -3666,7 +3666,7 @@
       "addPrice": 4000,
       "removePrice": 3000,
       "degree": 0,
-      "description": "Timmy has an eye for silver and a tongue made from it. They believe their products are the best products and he will likely convince you if given the chance.\n(Vanilla Traits Expanded)",
+      "description": "Timmy has an eye for silver and a silver tongue to match. he values his own goods highly, and convinces others to do the same.\n(Vanilla Traits Expanded)",
       "stats": [
         "Wealth meditation focus type allowed.",
         "+4 social",
@@ -3750,7 +3750,7 @@
       "addPrice": 3000,
       "removePrice": 3000,
       "degree": 0,
-      "description": "Timmy has trouble expressing themselves until its all too much to bear, whereafter they will have an utter meltdown.\n(Vanilla Traits Expanded)",
+      "description": "Timmy bottles up his feelings for long stretches of time. When the pressure grows too great, he may suddenly break down.\n(Vanilla Traits Expanded)",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
@@ -4407,6 +4407,348 @@
       },
       "defName": "LCK_Soldier",
       "name": "soldier"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is able to use oversized weapons.\n(Big and Small - Framework)",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Big and Small - Framework",
+        "karmaTypeForAdding": null
+      },
+      "defName": "BS_Giant",
+      "name": "toughsinews"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy learns faster in skills they lack passion in.\n\n(This increase to no-passion learning will not show in the skill UI)\n(Big and Small - Genes & More)",
+      "stats": [
+        "+0.35 skill learning (no passion)",
+        "+15% global learning factor"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+0.35 skill learning (no passion)",
+          "+15% global learning factor"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Big and Small - Genes & More",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Passioned_Learning",
+      "name": "studious"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy learns much faster in skills they lack passion in.\n\n(This increase to no-passion learning will not show in the skill UI)\n(Big and Small - Genes & More)",
+      "stats": [
+        "+0.65 skill learning (no passion)",
+        "+30% global learning factor"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+0.65 skill learning (no passion)",
+          "+30% global learning factor"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Big and Small - Genes & More",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Very_Passioned_Learning",
+      "name": "verystudious"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "There is something about Timmy that makes predators not consider them prey\n(Big and Small - Genes & More)",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Big and Small - Genes & More",
+        "karmaTypeForAdding": null
+      },
+      "defName": "BS_AnimalFriend",
+      "name": "animalfriend"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy loves alcohol. he will never stop being addicted to it.\n(Big and Small - Genes & More)",
+      "stats": [
+        "+10% mental break threshold",
+        "x150% recreation power"
+      ],
+      "conflicts": [
+        "chemicalfascination",
+        "chemicalinterest",
+        "teetotaler",
+        "lush",
+        "ascetic"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "chemicalfascination",
+          "chemicalinterest",
+          "teetotaler",
+          "lush",
+          "ascetic"
+        ],
+        "stats": [
+          "+10% mental break threshold",
+          "x150% recreation power"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Big and Small - Genes & More",
+        "karmaTypeForAdding": null
+      },
+      "defName": "BS_AlcoholAddict",
+      "name": "alcohollover"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy has a gentle and cool-headed nature. he is less likely to insult others or starts fights, and will sometimes cheer up others.\n(Big and Small - Genes & More)",
+      "stats": [
+        "-20% mental break threshold"
+      ],
+      "conflicts": [
+        "abrasive",
+        "kind",
+        "psychopath"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "abrasive",
+          "kind",
+          "psychopath"
+        ],
+        "stats": [
+          "-20% mental break threshold"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Big and Small - Genes & More",
+        "karmaTypeForAdding": null
+      },
+      "defName": "BS_Gentle",
+      "name": "gentle"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy doesn't react to insults or to either part failing a flirt attempt.\n(Big and Small - Genes & More)",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Big and Small - Genes & More",
+        "karmaTypeForAdding": null
+      },
+      "defName": "BS_InsultProof",
+      "name": "uninsultable"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy isn't bothered by rough appearances, a bit of rough living. Timmy also doesn't care as much for royal titles.\n(Big and Small - Genes & More)",
+      "stats": [],
+      "conflicts": [
+        "greedy",
+        "jealous",
+        "bodypurist",
+        "misandrist",
+        "misogynist"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "greedy",
+          "jealous",
+          "bodypurist",
+          "misandrist",
+          "misogynist"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Big and Small - Genes & More",
+        "karmaTypeForAdding": null
+      },
+      "defName": "BS_Unpretentious",
+      "name": "unpretentious"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is truly gigantic by the standards of their kind. They are sturdier than usual, but being significantly larger than normal for their kind does slow them down somewhat and make them more prone to early heart attacks and other health-issues.\n(Big and Small - Genes & More)",
+      "stats": [
+        "x130% body size multipler",
+        "x90% move speed",
+        "x80% lifespan factor"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "x130% body size multipler",
+          "x90% move speed",
+          "x80% lifespan factor"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Big and Small - Genes & More",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Gigantism",
+      "name": "gigantism"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is both taller and bulkier than usual for their kind. This makes them sturdier but slightly slower.\n(Big and Small - Genes & More)",
+      "stats": [
+        "x115% body size multipler",
+        "x95% move speed",
+        "x95% lifespan factor"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "x115% body size multipler",
+          "x95% move speed",
+          "x95% lifespan factor"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Big and Small - Genes & More",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Large",
+      "name": "large"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is a bit smaller than usual for their kind.\n(Big and Small - Genes & More)",
+      "stats": [
+        "x80% body size multipler"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "x80% body size multipler"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Big and Small - Genes & More",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Small",
+      "name": "small"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is much smaller than usual for their kind.\n(Big and Small - Genes & More)",
+      "stats": [
+        "x60% body size multipler"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "x60% body size multipler"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Big and Small - Genes & More",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Dwarfism",
+      "name": "dwarfism"
     }
   ],
   "races": [
