@@ -4001,7 +4001,7 @@
       "name": "mechwarcasket"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 5500,
@@ -4749,6 +4749,34 @@
       },
       "defName": "Dwarfism",
       "name": "dwarfism"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Family is everything for Timmy. Timmy enjoys being around family members and knows the way around kids. Family joys and sorrows resonate with his more than others.\n(Family Ties)",
+      "stats": [],
+      "conflicts": [
+        "psychopath",
+        "recluse"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "psychopath",
+          "recluse"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Family Ties",
+        "karmaTypeForAdding": null
+      },
+      "defName": "FamilyPerson",
+      "name": "familyperson"
     }
   ],
   "races": [
