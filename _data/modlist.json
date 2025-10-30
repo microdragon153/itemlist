@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "author": "Andreas Pardeike",
     "name": "Harmony",
@@ -6,16 +6,16 @@
     "version": "2.4.2.0"
   },
   {
-    "author": "Smash Phil",
-    "name": "Vehicle Framework",
-    "steamId": "3014915404",
-    "version": "1.6+805eb02414feb54a653a48ffb2a3146aa4e469ed"
-  },
-  {
     "author": "GoGaTio",
     "name": "Always Draft Your Mechs (Almost)",
     "steamId": "3334556472",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Smash Phil",
+    "name": "Vehicle Framework",
+    "steamId": "3014915404",
+    "version": "1.6+0045fe176c136602ec18a20cdff8b76726af8132"
   },
   {
     "author": "Soul, Phaneron and Bradson",
@@ -27,7 +27,7 @@
     "author": "RedMattis",
     "name": "Big and Small - Framework",
     "steamId": "2925432336",
-    "version": "1.0.0+78349d158e652cf7cb4aec2111ce8306b58f992a"
+    "version": "1.0.0+bde19834f6bc3e12d7ca404f25d8fe32ace3b3b2"
   },
   {
     "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson and Erdelf",
@@ -579,7 +579,7 @@
     "author": "NetzachSloth and Toby",
     "name": "Better autocasting for Vanilla Psycasts Expanded",
     "steamId": "3199585285",
-    "version": "6.3.2.0+97636378cdbdacb46cd6dafc6aa0ec28c26e0749"
+    "version": "6.3.3.0+07303081ca4c785a7944da6dcba0b26787398b45"
   },
   {
     "author": "Oskar Potocki, xrushha, Arquebus and Taranchuk",
@@ -966,6 +966,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Zoarak963",
+    "name": "Anomaly Research Asteroid",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "ferny",
     "name": "Ambiguous Anomaly",
     "steamId": null,
@@ -1004,12 +1010,6 @@
   {
     "author": "Zenlor",
     "name": "Anomaly Hotfixes",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Zoarak963",
-    "name": "Anomaly Research Asteroid",
     "steamId": null,
     "version": null
   },
@@ -1155,7 +1155,7 @@
     "author": "Mlie",
     "name": "Enter Here",
     "steamId": "2824117092",
-    "version": "1.6.1"
+    "version": "1.6.3"
   },
   {
     "author": "Sarg Bjornson",
@@ -1302,6 +1302,24 @@
     "version": "1.7.0.0"
   },
   {
+    "author": "HaiLuan and 昏暗",
+    "name": "Dlc collaboration - Void universe",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "TurboPickle",
+    "name": "Grav-Shuttle",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Mr.Wireman",
+    "name": "Stealth Shuttle",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "ferny",
     "name": "Better Architect Menu",
     "steamId": "3563882422",
@@ -1334,8 +1352,8 @@
   {
     "author": "Dyrewulfe",
     "name": "Better Message Placement (Continued)",
-    "steamId": null,
-    "version": null
+    "steamId": "2259516339",
+    "version": "1.6.1"
   },
   {
     "author": "Madeline",
@@ -1466,7 +1484,7 @@
   {
     "author": "Uuugggg",
     "name": "Build From Inventory - Continued",
-    "steamId": "",
+    "steamId": "3534185281",
     "version": "1.0.0.0"
   },
   {
@@ -1539,7 +1557,7 @@
     "author": "在戴森球上打螺丝",
     "name": "Choose Where To Land",
     "steamId": "3537970831",
-    "version": "1.0.0+12defbe7dbf65bbbb1f6304c6fc844e41a5288c9"
+    "version": "1.0.0+0d2c58c1c8f888929b211bdabebe083867bffc95"
   },
   {
     "author": "CoolNether123, TreadTheDawnGames and ZManJim",
@@ -1827,7 +1845,7 @@
     "author": "dickus",
     "name": "Family Ties",
     "steamId": "3574741456",
-    "version": "1.0.1+518488a6d183b7df7cac8650de53d84956a87b9a"
+    "version": "1.0.1+6ec4aa3d96381bae77e1b36947ffa3f95eb27f75"
   },
   {
     "author": "ferny",
@@ -1984,12 +2002,6 @@
     "name": "Graphics Settings+",
     "steamId": "1678847247",
     "version": "1.0.0"
-  },
-  {
-    "author": "TurboPickle",
-    "name": "Grav-Shuttle",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Halituis Amaricanous",
@@ -2288,7 +2300,7 @@
   {
     "author": "Uuugggg",
     "name": "Meals On Wheels - Continued",
-    "steamId": "",
+    "steamId": "3538082807",
     "version": "1.0.0.0"
   },
   {
@@ -2481,7 +2493,7 @@
     "author": "Mlie",
     "name": "No Version Warning",
     "steamId": "2599504692",
-    "version": "1.6.65"
+    "version": "1.6.70"
   },
   {
     "author": "fed1",
@@ -2570,8 +2582,8 @@
   {
     "author": "Uuugggg",
     "name": "Replace Stuff - Continued",
-    "steamId": "",
-    "version": "1.0.0+5dc25f5229704f0b443ec0b6bf696f8add7e8a01"
+    "steamId": "3526354009",
+    "version": "1.0.0+dfcf49c304d1d32dea51a3eb2e3b9799ab31c030"
   },
   {
     "author": "kongkim",
@@ -2787,7 +2799,7 @@
     "author": "Mlie",
     "name": "Relevant Stats In Description",
     "steamId": "2692669482",
-    "version": "1.6.1"
+    "version": "1.6.2"
   },
   {
     "author": "Weilbyte",
@@ -3162,12 +3174,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "mr. teterew",
-    "name": "Violent Takeoff",
-    "steamId": "3553212494",
-    "version": "1.0.0"
-  },
-  {
     "author": "CNEIO",
     "name": "VGE-Quality Is More Effective",
     "steamId": "3580928545",
@@ -3260,8 +3266,8 @@
   {
     "author": "Uuugggg",
     "name": "Smart Medicine - Continued",
-    "steamId": "",
-    "version": "1.0.0+039d067e32f24f91e6520e43b628a17d944b6507"
+    "steamId": "3526251680",
+    "version": "1.0.0+35d33fdc4dcdd98e3dbdf4084ed0e31dc98e51e5"
   },
   {
     "author": "Sarg Bjornson",
@@ -3322,12 +3328,6 @@
     "name": "Stack gap",
     "steamId": "3071298014",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Mr.Wireman",
-    "name": "Stealth Shuttle",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Halituis Amaricanous",
@@ -3432,22 +3432,28 @@
     "version": null
   },
   {
-    "author": "nry",
-    "name": "ToolkitCore",
-    "steamId": "3013877477",
-    "version": "1.0.0+7d0a90f98cb48c28759783d7c0a07f9c70b8ba21"
+    "author": "Captolamia",
+    "name": "Toolkit Core 2.0e",
+    "steamId": "3576160360",
+    "version": "2.0.9405.16390"
   },
   {
-    "author": "nry",
-    "name": "Twitch Toolkit",
-    "steamId": "3013874066",
-    "version": "2.0.10.0"
+    "author": "Captolamia",
+    "name": "Twitch Toolkit 2.0e",
+    "steamId": "3576161899",
+    "version": "2.0.9416.40111"
   },
   {
-    "author": "SirRandoo",
-    "name": "ToolkitUtils",
-    "steamId": "2009500580",
-    "version": "7.0.6.0-RC1+21634b199ea59288446c2da46ac41fe3544ee4c3"
+    "author": "Captolamia",
+    "name": "Toolkit Utilities 2.0e",
+    "steamId": "3576163690",
+    "version": "7.0.6.0-RC1+dd8d0b5bfd6b5c002511544c79e0ce20644d01df"
+  },
+  {
+    "author": "Captolamia",
+    "name": "TwitchToolkit - Lootboxes for 2.0e",
+    "steamId": "3577496838",
+    "version": "2.0.9402.38008"
   },
   {
     "author": "Mlie",
@@ -3484,12 +3490,6 @@
     "name": "Tweaks Galore",
     "steamId": "2695164414",
     "version": "1.6.9373.23752"
-  },
-  {
-    "author": "Captolamia",
-    "name": "TwitchToolkit - Lootboxes (resurrected) 1.5, 1.6",
-    "steamId": "3239583412",
-    "version": "1.6.0.1"
   },
   {
     "author": "leeh",
@@ -3531,7 +3531,7 @@
     "author": "Mlie",
     "name": "Use This Instead",
     "steamId": "3396308787",
-    "version": "1.6.114"
+    "version": "1.6.124"
   },
   {
     "author": "ferny",
@@ -3636,15 +3636,27 @@
     "version": null
   },
   {
-    "author": "HaiLuan and 昏暗",
-    "name": "Dlc collaboration - Void universe",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "ocarina0001, tefnut and sarah",
     "name": "Gravship Water Systems",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Priest Of Fern",
+    "name": "VFE Pirates - More Warcaskets",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "HyouSol",
+    "name": "Mechlink Reinforcement",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Ushanka",
+    "name": "Ushankas Hacking Expansion",
+    "steamId": "3573344880",
+    "version": "0.1.0.0+6d3aefbc77a4a31b29968bf6b8c01b638f37beac"
   }
 ]

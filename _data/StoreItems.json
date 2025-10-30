@@ -535,12 +535,6 @@
 		"defname": "LongRangeMineralScanner"
 	},
 	{
-		"abr": "podlauncher",
-		"price": 230,
-		"category": "Misc",
-		"defname": "PodLauncher"
-	},
-	{
 		"abr": "transportpod",
 		"price": 253,
 		"category": "Misc",
@@ -611,24 +605,6 @@
 		"price": 33,
 		"category": "Special",
 		"defname": "GlowPod"
-	},
-	{
-		"abr": "powerconduit",
-		"price": -10,
-		"category": "Misc",
-		"defname": "PowerConduit"
-	},
-	{
-		"abr": "hiddenconduit",
-		"price": -10,
-		"category": "Misc",
-		"defname": "HiddenConduit"
-	},
-	{
-		"abr": "waterproofconduit",
-		"price": -10,
-		"category": "Misc",
-		"defname": "WaterproofConduit"
 	},
 	{
 		"abr": "powerswitch",
@@ -4621,12 +4597,6 @@
 		"defname": "EPOE_MAAI_Chip"
 	},
 	{
-		"abr": "powerconduit",
-		"price": -10,
-		"category": "Misc",
-		"defname": "KCSG_PowerConduit"
-	},
-	{
 		"abr": "stonedarkcampfire",
 		"price": 128,
 		"category": "Misc",
@@ -5179,12 +5149,6 @@
 		"defname": "VME_AncientVendingMachine"
 	},
 	{
-		"abr": "ancientairconditioner",
-		"price": -10,
-		"category": "Misc",
-		"defname": "VME_AncientAirConditioner"
-	},
-	{
 		"abr": "ancientkitchensink",
 		"price": -10,
 		"category": "Misc",
@@ -5483,12 +5447,6 @@
 		"price": 800,
 		"category": "Security",
 		"defname": "VME_MechanoidEffigy"
-	},
-	{
-		"abr": "ominousobelisk",
-		"price": 367,
-		"category": "Misc",
-		"defname": "VME_Obelisk"
 	},
 	{
 		"abr": "shintaoslab(medium)",
@@ -7651,18 +7609,6 @@
 		"defname": "SurgicalInstruments"
 	},
 	{
-		"abr": "chemfuelpipe",
-		"price": -10,
-		"category": "Misc",
-		"defname": "VCHE_ChemfuelPipe"
-	},
-	{
-		"abr": "hiddenchemfuelpipe",
-		"price": -10,
-		"category": "Misc",
-		"defname": "VCHE_UndergroundChemfuelPipe"
-	},
-	{
 		"abr": "chemfuelvalve",
 		"price": 102,
 		"category": "Misc",
@@ -7685,18 +7631,6 @@
 		"price": 194,
 		"category": "Furniture",
 		"defname": "VCHE_ChemfuelDrain"
-	},
-	{
-		"abr": "deepchempipe",
-		"price": -10,
-		"category": "Misc",
-		"defname": "VCHE_DeepchemPipe"
-	},
-	{
-		"abr": "hiddendeepchempipe",
-		"price": -10,
-		"category": "Misc",
-		"defname": "VCHE_UndergroundDeepchemPipe"
 	},
 	{
 		"abr": "deepchemvalve",
@@ -7739,18 +7673,6 @@
 		"price": 7,
 		"category": "Manufactured",
 		"defname": "VCHE_Deepchem"
-	},
-	{
-		"abr": "nutrientpastepipe",
-		"price": -10,
-		"category": "Misc",
-		"defname": "VNPE_NutrientPastePipe"
-	},
-	{
-		"abr": "hiddennutrientpastepipe",
-		"price": -10,
-		"category": "Misc",
-		"defname": "VNPE_UndergroundNutrientPastePipe"
 	},
 	{
 		"abr": "nutrientpastevalve",
@@ -8213,18 +8135,6 @@
 		"price": 4025,
 		"category": "Misc",
 		"defname": "VRE_PsychofluidWell"
-	},
-	{
-		"abr": "hemogenpipe",
-		"price": -10,
-		"category": "Misc",
-		"defname": "VRE_HemogenPipe"
-	},
-	{
-		"abr": "hiddenhemogenpipe",
-		"price": -10,
-		"category": "Misc",
-		"defname": "VRE_UndergroundHemogenPipe"
 	},
 	{
 		"abr": "hemogenvalve",
@@ -9881,18 +9791,6 @@
 		"price": 7,
 		"category": "Manufactured",
 		"defname": "LTSWeaponsToolkit"
-	},
-	{
-		"abr": "neutroaminepipe",
-		"price": -10,
-		"category": "Misc",
-		"defname": "VREA_NeutroPipe"
-	},
-	{
-		"abr": "subterraneanneutroaminepipe",
-		"price": -10,
-		"category": "Misc",
-		"defname": "VREA_SubterraneanNeutroPipe"
 	},
 	{
 		"abr": "activecamouflage",
@@ -14156,7 +14054,7 @@
 	},
 	{
 		"abr": "aberrantfleshbeast",
-		"price": 17,
+		"price": 900,
 		"category": "Animals",
 		"defname": "GR_AberrantFleshbeast"
 	},
@@ -14279,18 +14177,6 @@
 		"price": 458,
 		"category": "Hygiene",
 		"defname": "AirConOutdoorUnit"
-	},
-	{
-		"abr": "air-conpipe",
-		"price": -10,
-		"category": "Temperature",
-		"defname": "airPipe"
-	},
-	{
-		"abr": "air-conpipe(hidden)",
-		"price": -10,
-		"category": "Temperature",
-		"defname": "airPipeHidden"
 	},
 	{
 		"abr": "airdrop",
@@ -15776,7 +15662,7 @@
 	},
 	{
 		"abr": "archotechxenogenefier",
-		"price": 167,
+		"price": 400,
 		"category": "Gene tools",
 		"defname": "AG_ArchoXenogenefier"
 	},
@@ -16466,7 +16352,7 @@
 	},
 	{
 		"abr": "awakenedandroidxenogerm",
-		"price": 3333,
+		"price": -10,
 		"category": "Items",
 		"defname": "Xenogerm_VREA_AndroidAwakened"
 	},
@@ -16526,7 +16412,7 @@
 	},
 	{
 		"abr": "basicandroidxenogerm",
-		"price": 3333,
+		"price": -10,
 		"category": "Items",
 		"defname": "Xenogerm_VREA_AndroidBasic"
 	},
@@ -18776,25 +18662,25 @@
 	},
 	{
 		"abr": "fleshflies",
-		"price": 17,
+		"price": 170,
 		"category": "Animals",
 		"defname": "GR_FleshFlies"
 	},
 	{
 		"abr": "fleshgrowth",
-		"price": 17,
+		"price": 170,
 		"category": "Animals",
 		"defname": "GR_FleshGrowth"
 	},
 	{
 		"abr": "fleshmonstrosity",
-		"price": 17,
+		"price": 1700,
 		"category": "Animals",
 		"defname": "GR_FleshMonstrosity"
 	},
 	{
 		"abr": "fleshling",
-		"price": 17,
+		"price": 170,
 		"category": "Animals",
 		"defname": "GR_Fleshling"
 	},
@@ -24140,7 +24026,7 @@
 	},
 	{
 		"abr": "xenogenefier",
-		"price": 167,
+		"price": 200,
 		"category": "Gene tools",
 		"defname": "AG_Xenogenefier"
 	},
@@ -24206,13 +24092,13 @@
 	},
 	{
 		"abr": "xenotypeinjector",
-		"price": 167,
+		"price": 400,
 		"category": "Gene tools",
 		"defname": "AG_XenotypeInjector"
 	},
 	{
 		"abr": "xenotypenullifier",
-		"price": 167,
+		"price": 400,
 		"category": "Gene tools",
 		"defname": "AG_XenotypeNullifier"
 	},
@@ -25009,24 +24895,6 @@
 		"defname": "MU_AncientAdvancedUpgradesAssembler"
 	},
 	{
-		"abr": "ancientairconditioner",
-		"price": 101,
-		"category": "Misc",
-		"defname": "AncientAirConditioner"
-	},
-	{
-		"abr": "ancientairlock",
-		"price": 30,
-		"category": "Misc",
-		"defname": "VQE_AncientAirlock"
-	},
-	{
-		"abr": "ancientammobox",
-		"price": 3,
-		"category": "Misc",
-		"defname": "AncientAmmoStack"
-	},
-	{
 		"abr": "ancientantenna",
 		"price": 3,
 		"category": "Misc",
@@ -25711,18 +25579,6 @@
 		"defname": "VVE_BattleTankWreck"
 	},
 	{
-		"abr": "blackshipchunk",
-		"price": 1525,
-		"category": "Misc",
-		"defname": "ShipChunk_black"
-	},
-	{
-		"abr": "blueshipchunk",
-		"price": 1867,
-		"category": "Misc",
-		"defname": "ShipChunk_blue"
-	},
-	{
 		"abr": "brokenautocannonturret",
 		"price": 18,
 		"category": "Misc",
@@ -25891,24 +25747,6 @@
 		"defname": "VQE_FrozenFailedCryptosleepPod"
 	},
 	{
-		"abr": "flagshipchunk",
-		"price": 783,
-		"category": "Misc",
-		"defname": "VFED_FlagshipChunk"
-	},
-	{
-		"abr": "fortifiedwall",
-		"price": 1,
-		"category": "Misc",
-		"defname": "AncientFortifiedWall"
-	},
-	{
-		"abr": "fortifiedwall",
-		"price": 1,
-		"category": "Misc",
-		"defname": "OrbitalAncientFortifiedWall"
-	},
-	{
 		"abr": "frogwreck",
 		"price": 925,
 		"category": "Misc",
@@ -25987,30 +25825,6 @@
 		"defname": "VQE_GoldPile"
 	},
 	{
-		"abr": "grayshipchunk",
-		"price": 892,
-		"category": "Misc",
-		"defname": "ShipChunk_gray"
-	},
-	{
-		"abr": "grayshipchunk",
-		"price": 1083,
-		"category": "Misc",
-		"defname": "ShipChunk_grayI"
-	},
-	{
-		"abr": "greenshipchunk",
-		"price": 975,
-		"category": "Misc",
-		"defname": "ShipChunk_green"
-	},
-	{
-		"abr": "greenshipchunk",
-		"price": 1450,
-		"category": "Misc",
-		"defname": "ShipChunk_greenI"
-	},
-	{
 		"abr": "helicopterwreck",
 		"price": 18,
 		"category": "Misc",
@@ -26021,12 +25835,6 @@
 		"price": 1342,
 		"category": "Misc",
 		"defname": "VVEW_HighwaymanWreck"
-	},
-	{
-		"abr": "hugetwistedmetal",
-		"price": 12,
-		"category": "Misc",
-		"defname": "VQE_HugeTwistedMetal"
 	},
 	{
 		"abr": "infantryfightingvehiclewreck",
@@ -26047,12 +25855,6 @@
 		"defname": "VQE_LargeFrozenThrusters"
 	},
 	{
-		"abr": "largetwistedmetal",
-		"price": 6,
-		"category": "Misc",
-		"defname": "VQE_LargeTwistedMetal"
-	},
-	{
 		"abr": "lifesupportunit",
 		"price": 333,
 		"category": "Misc",
@@ -26069,12 +25871,6 @@
 		"price": 83,
 		"category": "Misc",
 		"defname": "MechPylon"
-	},
-	{
-		"abr": "mechanoidshipchunk",
-		"price": 299,
-		"category": "Misc",
-		"defname": "ShipChunk_Mech"
 	},
 	{
 		"abr": "mosquitowreck",
@@ -26129,12 +25925,6 @@
 		"price": 617,
 		"category": "Misc",
 		"defname": "VVEW_ProwlerWreck"
-	},
-	{
-		"abr": "purpleshipchunk",
-		"price": 2383,
-		"category": "Misc",
-		"defname": "ShipChunk_purple"
 	},
 	{
 		"abr": "refrigeratedtruckwreck",
@@ -26239,12 +26029,6 @@
 		"defname": "VVEW_ScythemanWreck"
 	},
 	{
-		"abr": "shipchunk",
-		"price": 783,
-		"category": "Misc",
-		"defname": "VEE_ShipChunkHuman"
-	},
-	{
 		"abr": "shipchunkbattery",
 		"price": 800,
 		"category": "Misc",
@@ -26311,58 +26095,10 @@
 		"defname": "VVE_SiegePodWreck"
 	},
 	{
-		"abr": "smallblackshipchunk",
-		"price": 767,
-		"category": "Misc",
-		"defname": "ShipChunk_black_small"
-	},
-	{
-		"abr": "smallblueshipchunk",
-		"price": 933,
-		"category": "Misc",
-		"defname": "ShipChunk_blue_small"
-	},
-	{
 		"abr": "smallflashfreezer",
 		"price": 333,
 		"category": "Misc",
 		"defname": "VQE_SmallFlashfreezer"
-	},
-	{
-		"abr": "smallgrayshipchunk",
-		"price": 442,
-		"category": "Misc",
-		"defname": "ShipChunk_gray_small"
-	},
-	{
-		"abr": "smallgrayshipchunk",
-		"price": 542,
-		"category": "Misc",
-		"defname": "ShipChunk_grayI_small"
-	},
-	{
-		"abr": "smallgreenshipchunk",
-		"price": 458,
-		"category": "Misc",
-		"defname": "ShipChunk_green_small"
-	},
-	{
-		"abr": "smallgreenshipchunk",
-		"price": 725,
-		"category": "Misc",
-		"defname": "ShipChunk_greenI_small"
-	},
-	{
-		"abr": "smallpurpleshipchunk",
-		"price": 1192,
-		"category": "Misc",
-		"defname": "ShipChunk_purple_small"
-	},
-	{
-		"abr": "smallyellowshipchunk",
-		"price": 542,
-		"category": "Misc",
-		"defname": "ShipChunk_yellow_small"
 	},
 	{
 		"abr": "smugglerwreck",
@@ -26435,12 +26171,6 @@
 		"price": 3,
 		"category": "Misc",
 		"defname": "VQE_TwistedComponents"
-	},
-	{
-		"abr": "twistedmetal",
-		"price": 2,
-		"category": "Misc",
-		"defname": "VQE_TwistedMetal"
 	},
 	{
 		"abr": "twistedplasteel",
@@ -26549,12 +26279,6 @@
 		"price": 53,
 		"category": "Hard",
 		"defname": "MA_HellboarLiverSlice"
-	},
-	{
-		"abr": "yellowshipchunk",
-		"price": 1083,
-		"category": "Misc",
-		"defname": "ShipChunk_yellow"
 	},
 	{
 		"abr": "randompotplantseedbundle",
@@ -27086,7 +26810,7 @@
 	},
 	{
 		"abr": "geneintegrator",
-		"price": 350,
+		"price": 700,
 		"category": "Misc",
 		"defname": "BS_GeneGeneIntegrator"
 	},
@@ -27626,7 +27350,7 @@
 	},
 	{
 		"abr": "soulshard",
-		"price": 667,
+		"price": 6000,
 		"category": "Manufactured",
 		"defname": "BS_DarkSoulshard"
 	},
@@ -27740,7 +27464,7 @@
 	},
 	{
 		"abr": "xenodiscombobulator",
-		"price": 199,
+		"price": 1000,
 		"category": "Misc",
 		"defname": "BS_GeneDicombobulator"
 	},
@@ -28676,7 +28400,7 @@
 	},
 	{
 		"abr": "goldencanary",
-		"price": 50,
+		"price": 5000,
 		"category": "Animals",
 		"defname": "UV_GoldenCanary"
 	},
@@ -28715,7 +28439,223 @@
 		"price": 251,
 		"category": "Hygiene",
 		"defname": "TEFNUT_GravshipWaterTank"
+	},
+	{
+		"abr": "dunbear",
+		"price": 7500,
+		"category": "Animals",
+		"defname": "MA_Dunbear"
+	},
+	{
+		"abr": "dunbearhide",
+		"price": 14,
+		"category": "Leathers",
+		"defname": "MA_Leather_Dunbear"
+	},
+	{
+		"abr": "dunbearmeat",
+		"price": 9,
+		"category": "Meat",
+		"defname": "MA_DunbearMeat"
+	},
+	{
+		"abr": "gnauthornmace",
+		"price": 101,
+		"category": "Melee weapons",
+		"defname": "MA_GnautHornMace"
+	},
+	{
+		"abr": "megaboneclub",
+		"price": 66,
+		"category": "Melee weapons",
+		"defname": "MA_MegaboneClub"
+	},
+	{
+		"abr": "scarodonfangdagger",
+		"price": 330,
+		"category": "Melee weapons",
+		"defname": "MA_ScarodonFangDagger"
+	},
+	{
+		"abr": "verdantbow",
+		"price": 4667,
+		"category": "Ranged weapons",
+		"defname": "MA_VerdantBow"
+	},
+	{
+		"abr": "advancedcyberdata",
+		"price": 283,
+		"category": "Manufactured",
+		"defname": "USH_AdvancedCyberdata"
+	},
+	{
+		"abr": "advancedcyberlink",
+		"price": 3292,
+		"category": "Cybertech",
+		"defname": "USH_AdvancedCyberlink"
+	},
+	{
+		"abr": "ancientcyberdeck",
+		"price": 6,
+		"category": "Misc",
+		"defname": "USH_AncientCyberdeck"
+	},
+	{
+		"abr": "blackicebreaker",
+		"price": 933,
+		"category": "Misc",
+		"defname": "USH_ICEBreaker"
+	},
+	{
+		"abr": "brokenexecdata",
+		"price": 50,
+		"category": "Manufactured",
+		"defname": "USH_BrokenExecData"
+	},
+	{
+		"abr": "cyberdata",
+		"price": 83,
+		"category": "Manufactured",
+		"defname": "USH_Cyberdata"
+	},
+	{
+		"abr": "cyberlink",
+		"price": 1308,
+		"category": "Cybertech",
+		"defname": "USH_Cyberlink"
+	},
+	{
+		"abr": "cyberpod",
+		"price": 1850,
+		"category": "Misc",
+		"defname": "USH_Cyberpod"
+	},
+	{
+		"abr": "dataserver",
+		"price": 1858,
+		"category": "Furniture",
+		"defname": "USH_DataServer"
+	},
+	{
+		"abr": "execdata(disarm)",
+		"price": 167,
+		"category": "Manufactured",
+		"defname": "USH_ExecData_Disarm"
+	},
+	{
+		"abr": "execdata(discharge)",
+		"price": 167,
+		"category": "Manufactured",
+		"defname": "USH_ExecData_Discharge"
+	},
+	{
+		"abr": "execdata(forkbomb)",
+		"price": 167,
+		"category": "Manufactured",
+		"defname": "USH_ExecData_ForkBomb"
+	},
+	{
+		"abr": "execdata(hijacksubcore)",
+		"price": 167,
+		"category": "Manufactured",
+		"defname": "USH_ExecData_HijackSubcore"
+	},
+	{
+		"abr": "execdata(shortcircuit)",
+		"price": 167,
+		"category": "Manufactured",
+		"defname": "USH_ExecData_ShortCircuit"
+	},
+	{
+		"abr": "execdata(virtualblackicebreaker)",
+		"price": 167,
+		"category": "Manufactured",
+		"defname": "USH_ExecData_VirtualICEBreaker"
+	},
+	{
+		"abr": "execdata(zapcode)",
+		"price": 167,
+		"category": "Manufactured",
+		"defname": "USH_ExecData_Zapcode"
+	},
+	{
+		"abr": "execdatacase",
+		"price": 2000,
+		"category": "Cybertech",
+		"defname": "USH_ExecDataCase"
+	},
+	{
+		"abr": "jammercoprocessor",
+		"price": 2117,
+		"category": "Misc",
+		"defname": "USH_JammerCoprocessor"
+	},
+	{
+		"abr": "jammerkit",
+		"price": 2000,
+		"category": "Cybertech",
+		"defname": "USH_JammerKit"
+	},
+	{
+		"abr": "jammerkit(advanced)",
+		"price": 2000,
+		"category": "Cybertech",
+		"defname": "USH_AdvancedJammerKit"
+	},
+	{
+		"abr": "mechhivedisruptor",
+		"price": 1267,
+		"category": "Security",
+		"defname": "USH_Turret_MechhiveDisruptor"
+	},
+	{
+		"abr": "neurofibrereinforcement",
+		"price": 333,
+		"category": "Mechtech",
+		"defname": "MLRNeuroFibreSublink"
+	},
+	{
+		"abr": "optimizationcoprocessor",
+		"price": 2117,
+		"category": "Misc",
+		"defname": "USH_OptimizationCoprocessor"
+	},
+	{
+		"abr": "optimizationmodule",
+		"price": 2000,
+		"category": "Cybertech",
+		"defname": "USH_OptimizationModule"
+	},
+	{
+		"abr": "optimizationmodule(advanced)",
+		"price": 2000,
+		"category": "Cybertech",
+		"defname": "USH_AdvancedOptimizationModule"
+	},
+	{
+		"abr": "remoteaccessport",
+		"price": 2000,
+		"category": "Cybertech",
+		"defname": "USH_RemoteAccessPort"
+	},
+	{
+		"abr": "remoteaccessport(advanced)",
+		"price": 2000,
+		"category": "Cybertech",
+		"defname": "USH_AdvancedRemoteAccessPort"
+	},
+	{
+		"abr": "satelliteblackbox",
+		"price": 6,
+		"category": "Misc",
+		"defname": "USH_BlackBox"
+	},
+	{
+		"abr": "vitalitycoprocessor",
+		"price": 2867,
+		"category": "Misc",
+		"defname": "USH_VitalityCoprocessor"
 	}
 	],
-	"total": 4786
+	"total": 4776
 }
