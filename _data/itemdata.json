@@ -43499,186 +43499,6 @@
     "Mod": "[HRK] Medieval deathrest coffin",
     "KarmaType": null
   },
-  "Fox_Lockers": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": false,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Simple Learning",
-    "KarmaType": null
-  },
-  "Printing_Press": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": false,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Simple Learning",
-    "KarmaType": null
-  },
-  "AuthorDesk": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": false,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Simple Learning",
-    "KarmaType": null
-  },
-  "Library_Table": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": false,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Simple Learning",
-    "KarmaType": null
-  },
-  "Intellectual_Bookshelf": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": false,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Simple Learning",
-    "KarmaType": null
-  },
-  "Social_Bookshelf": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": false,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Simple Learning",
-    "KarmaType": null
-  },
-  "Medicine_Bookshelf": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": false,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Simple Learning",
-    "KarmaType": null
-  },
-  "Art_Bookshelf": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": false,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Simple Learning",
-    "KarmaType": null
-  },
-  "Crafting_Bookshelf": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": false,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Simple Learning",
-    "KarmaType": null
-  },
   "VFEE_Aperitif": {
     "CustomName": null,
     "HasQuantityLimit": false,
@@ -47817,26 +47637,6 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "Wall Vitals Monitor (Continued)",
-    "KarmaType": null
-  },
-  "Animals_Bookshelf": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": false,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Simple Learning",
     "KarmaType": null
   },
   "HRK_RusticEmbrasure": {
@@ -75499,7 +75299,7 @@
     "Mod": "Alpha Books",
     "KarmaType": null
   },
-  "Plants_Bookshelf": {
+  "PE_ShootingTarget": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -75516,10 +75316,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Simple Learning",
+    "Mod": "Progression: Education",
     "KarmaType": null
   },
-  "Cooking_Bookshelf": {
+  "PE_Cadaver": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -75536,10 +75336,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Simple Learning",
+    "Mod": "Progression: Education",
     "KarmaType": null
   },
-  "Mining_Bookshelf": {
+  "PE_StrikingBoard": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -75556,10 +75356,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Simple Learning",
+    "Mod": "Progression: Education",
     "KarmaType": null
   },
-  "Construct_Bookshelf": {
+  "PE_Projector": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -75576,10 +75376,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Simple Learning",
+    "Mod": "Progression: Education",
     "KarmaType": null
   },
-  "Melee_Bookshelf": {
+  "PE_TouchscreenSchoolDesk": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -75596,10 +75396,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Simple Learning",
+    "Mod": "Progression: Education",
     "KarmaType": null
   },
-  "Shooting_Bookshelf": {
+  "PE_StoneSchoolDesk": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -75616,10 +75416,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Simple Learning",
+    "Mod": "Progression: Education",
     "KarmaType": null
   },
-  "Spacer_Joy_Bookshelf": {
+  "RoyalCrib": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -75636,10 +75436,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Simple Learning",
+    "Mod": "Progression: Education",
     "KarmaType": null
   },
-  "Joy_Bookshelf": {
+  "TribalCrib": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -75656,10 +75456,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Simple Learning",
+    "Mod": "Progression: Education",
     "KarmaType": null
   },
-  "Spacer_Board": {
+  "PE_LargeHoloEducatorScreen": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -75676,67 +75476,7 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Simple Learning",
-    "KarmaType": null
-  },
-  "Board": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": false,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Simple Learning",
-    "KarmaType": null
-  },
-  "Neo_Board": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": false,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Simple Learning",
-    "KarmaType": null
-  },
-  "Spacer_Learning_Desk": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": false,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Simple Learning",
+    "Mod": "Progression: Education",
     "KarmaType": null
   },
   "VBE_UnfermentedCider": {
@@ -79499,7 +79239,7 @@
     "Mod": "[HRK] Vanilla Expanded Extra Embrasures",
     "KarmaType": null
   },
-  "Adv_Learning_Desk": {
+  "PE_HoloEducatorScreen": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -79516,10 +79256,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Simple Learning",
+    "Mod": "Progression: Education",
     "KarmaType": null
   },
-  "Mid_Learning_Desk": {
+  "PE_LargeWhiteboard": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -79536,10 +79276,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Simple Learning",
+    "Mod": "Progression: Education",
     "KarmaType": null
   },
-  "Neo_Learning_Desk": {
+  "PE_Whiteboard": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -79556,10 +79296,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Simple Learning",
+    "Mod": "Progression: Education",
     "KarmaType": null
   },
-  "Fox_DataCore": {
+  "PE_LargeBlackboard": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -79576,10 +79316,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Simple Learning",
+    "Mod": "Progression: Education",
     "KarmaType": null
   },
-  "Fox_PAM": {
+  "PE_LessonStone": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -79596,10 +79336,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Simple Learning",
+    "Mod": "Progression: Education",
     "KarmaType": null
   },
-  "Fox_Book": {
+  "PE_ElectricSchoolBell": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -79616,10 +79356,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Simple Learning",
+    "Mod": "Progression: Education",
     "KarmaType": null
   },
-  "Fox_Textbook": {
+  "PE_SchoolBell": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -79636,10 +79376,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Simple Learning",
+    "Mod": "Progression: Education",
     "KarmaType": null
   },
-  "Fox_Paper": {
+  "PE_TribalBell": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -79656,7 +79396,7 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Simple Learning",
+    "Mod": "Progression: Education",
     "KarmaType": null
   },
   "BLM_GravshipCabinDoor": {

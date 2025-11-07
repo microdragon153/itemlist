@@ -5112,7 +5112,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 2000,
       "degree": 0,
       "description": "Timmy has a magical gift. he can harness this gift to become a mage by studying the mysterious secrets within an arcane script.\n(A RimWorld of Magic)",
       "stats": [
@@ -10688,7 +10688,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 2000,
       "degree": 0,
       "description": "Timmy is physically adept and has potential to learn special combat forms.\n(A RimWorld of Magic)",
       "stats": [
@@ -14203,6 +14203,72 @@
       },
       "defName": "TM_SuperSoldier",
       "name": "supersoldier"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "This person is proficient with low-tech equipment.\n(Progression: Education)",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Progression: Education",
+        "karmaTypeForAdding": null
+      },
+      "defName": "PE_LowTechProficiency",
+      "name": "low-techproficient"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "This person is proficient with firearm equipment.\n(Progression: Education)",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Progression: Education",
+        "karmaTypeForAdding": null
+      },
+      "defName": "PE_FirearmProficiency",
+      "name": "firearmproficient"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "This person is proficient with high-tech equipment.\n(Progression: Education)",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Progression: Education",
+        "karmaTypeForAdding": null
+      },
+      "defName": "PE_HighTechProficiency",
+      "name": "high-techproficient"
     }
   ],
   "races": [

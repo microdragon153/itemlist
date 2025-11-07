@@ -6,6 +6,18 @@
     "version": "2.4.2.0"
   },
   {
+    "author": "Smash Phil",
+    "name": "Vehicle Framework",
+    "steamId": "3014915404",
+    "version": "1.6+0045fe176c136602ec18a20cdff8b76726af8132"
+  },
+  {
+    "author": "GoGaTio",
+    "name": "Always Draft Your Mechs (Almost)",
+    "steamId": "3334556472",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "RedMattis",
     "name": "Big and Small - Framework",
     "steamId": "2925432336",
@@ -108,6 +120,24 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "GoGaTio",
+    "name": "Mechanoid Upgrades",
+    "steamId": "3365118555",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "GoGaTio",
+    "name": "Mechanoid Upgrades - Anomaly",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "GoGaTio",
+    "name": "Mechanoid Upgrades - Archotech",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Oskar Potocki, Trunken and Sarg Bjornson",
     "name": "Vanilla Weapons Expanded",
     "steamId": null,
@@ -178,12 +208,6 @@
     "name": "Alpha Mechs: Re-Examined",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "GoGaTio",
-    "name": "Always Draft Your Mechs (Almost)",
-    "steamId": "3334556472",
-    "version": "1.0.0.0"
   },
   {
     "author": "Zoarak963",
@@ -298,12 +322,6 @@
     "name": "Automatic Night Owl",
     "steamId": "2056012179",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Smash Phil",
-    "name": "Vehicle Framework",
-    "steamId": "3014915404",
-    "version": "1.6+0045fe176c136602ec18a20cdff8b76726af8132"
   },
   {
     "author": "rabiosus",
@@ -454,12 +472,6 @@
     "name": "Life Support Continued [1.1+]",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "GoGaTio",
-    "name": "Mechanoid Upgrades",
-    "steamId": "3365118555",
-    "version": "1.0.0.0"
   },
   {
     "author": "Heremeus",
@@ -646,6 +658,12 @@
     "name": "ReBuild: Doors and Corners",
     "steamId": "3262718980",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Q",
+    "name": "Dubs Bad Hygiene: StallDoorFix",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Oskar Potocki, LimeTreeSnake and Kikohi",
@@ -864,12 +882,6 @@
     "version": null
   },
   {
-    "author": "TechnoFox",
-    "name": "Simple Learning",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Mlie",
     "name": "Smarter Visitors",
     "steamId": "3012491521",
@@ -1072,6 +1084,12 @@
     "name": "[HRK] Medieval deathrest coffin",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "ferny",
+    "name": "Progression: Education",
+    "steamId": "3590863552",
+    "version": "1.0.0.0"
   },
   {
     "author": "ferny",
@@ -1544,12 +1562,6 @@
   {
     "author": "Heather Athebyne",
     "name": "Drop Nothing When Settling",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Q",
-    "name": "Dubs Bad Hygiene: StallDoorFix",
     "steamId": null,
     "version": null
   },
@@ -2126,18 +2138,6 @@
   {
     "author": "Happycam",
     "name": "Mechanoid Cluster Retexture",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "GoGaTio",
-    "name": "Mechanoid Upgrades - Anomaly",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "GoGaTio",
-    "name": "Mechanoid Upgrades - Archotech",
     "steamId": null,
     "version": null
   },
@@ -2856,12 +2856,6 @@
     "version": "1.0.0+2a688913a95b8a36aeec452e80c610a15aa4685f"
   },
   {
-    "author": "Phaneron",
-    "name": "Simple Learning Retexture",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Oskar Potocki, xrushha, Taranchuk and Sarg",
     "name": "Vanilla Races Expanded - Hussar",
     "steamId": "2893586390",
@@ -2901,7 +2895,7 @@
     "author": "Uuugggg",
     "name": "Smart Medicine - Continued",
     "steamId": "3526251680",
-    "version": "1.0.0+35d33fdc4dcdd98e3dbdf4084ed0e31dc98e51e5"
+    "version": "1.0.0+99b3e657506294bd9ef31b9e3981b31005f289b0"
   },
   {
     "author": "Sarg Bjornson",
@@ -3021,7 +3015,7 @@
     "author": "Uuugggg",
     "name": "TD Enhancement Pack - Continued",
     "steamId": "",
-    "version": "1.0.0+1563443b3a737eb5d46850c1ee5825fa899e9d9b"
+    "version": "1.0.0+c40d4f72c2e27be8eea2882aa2c6ac4c0319e563"
   },
   {
     "author": "cyanobot",
@@ -3213,7 +3207,7 @@
     "author": "Mlie",
     "name": "Use This Instead",
     "steamId": "3396308787",
-    "version": "1.6.131"
+    "version": "1.6.132"
   },
   {
     "author": "ferny",
@@ -3680,6 +3674,12 @@
   {
     "author": "HaiLuan and 百里墨",
     "name": "百里墨的逆重飞船拓展",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Pesky",
+    "name": "Pesky's Arcanist Ideology Style Pack",
     "steamId": null,
     "version": null
   }

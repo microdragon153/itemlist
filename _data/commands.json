@@ -2420,24 +2420,6 @@
       "globalCooldown": 0,
       "hasLocalCooldown": false,
       "localCooldown": 0,
-      "mod": "Toolkit Core 2.0e"
-    },
-    "description": null,
-    "name": "hello",
-    "usage": "!hello",
-    "userLevel": "Moderator",
-    "shortcut": false,
-    "defName": "HelloWorld"
-  },
-  {
-    "data": {
-      "isShortcut": false,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
       "mod": "Toolkit Utilities 2.0e"
     },
     "description": null,
@@ -2464,5 +2446,23 @@
     "userLevel": "Anyone",
     "shortcut": false,
     "defName": "AbilityLevel"
+  },
+  {
+    "data": {
+      "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
+      "hasGlobalCooldown": false,
+      "globalCooldown": 0,
+      "hasLocalCooldown": false,
+      "localCooldown": 0,
+      "mod": "Toolkit Core 2.0e"
+    },
+    "description": null,
+    "name": "hello",
+    "usage": "!hello",
+    "userLevel": "Moderator",
+    "shortcut": false,
+    "defName": "HelloWorld"
   }
 ]
