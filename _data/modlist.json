@@ -1128,12 +1128,6 @@
     "version": "1.1.3"
   },
   {
-    "author": "VouLT",
-    "name": "Better Pawn Control",
-    "steamId": "1541460369",
-    "version": "2.8.0+bf1809ad476a6c900d1097cd6dc00ecea37d8f48"
-  },
-  {
     "author": "Odie",
     "name": "Better Records Tab (Continued)",
     "steamId": null,
@@ -1509,7 +1503,7 @@
     "author": "alite",
     "name": "EBSG Framework",
     "steamId": "3112549163",
-    "version": "1.0.9427.30332"
+    "version": "1.0.9444.34471"
   },
   {
     "author": "DetVisor",
@@ -2307,7 +2301,7 @@
     "author": "Mlie",
     "name": "No Version Warning",
     "steamId": "2599504692",
-    "version": "1.6.71"
+    "version": "1.6.73"
   },
   {
     "author": "turkler",
@@ -2415,7 +2409,7 @@
     "author": "Uuugggg",
     "name": "Replace Stuff - Continued",
     "steamId": "3526354009",
-    "version": "1.0.0+dfcf49c304d1d32dea51a3eb2e3b9799ab31c030"
+    "version": "1.0.0+f60155fb0ecde1e0c69ee15888d7e9504c54d53c"
   },
   {
     "author": "kongkim",
@@ -3207,7 +3201,7 @@
     "author": "Mlie",
     "name": "Use This Instead",
     "steamId": "3396308787",
-    "version": "1.6.132"
+    "version": "1.6.134"
   },
   {
     "author": "ferny",
@@ -3682,5 +3676,29 @@
     "name": "Pesky's Arcanist Ideology Style Pack",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": " Original author: Captain Muscles (Nathan Harbour)\r\n    Since this fork: Arodoid\r\n    ",
+    "name": "Semi Random Research: Progression Fork",
+    "steamId": "3505290557",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "turkler",
+    "name": "Knick Knacks - Let your colonists decorate!",
+    "steamId": "3595196942",
+    "version": "0.1.0.0"
+  },
+  {
+    "author": "Sokyran and Hush",
+    "name": "Wood Is Natural (For Trees)",
+    "steamId": "2895354126",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Lanilor",
+    "name": "Loot Boxes (Continued)",
+    "steamId": "3258852853",
+    "version": "1.6.0"
   }
 ]

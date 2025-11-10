@@ -14205,8 +14205,8 @@
       "name": "supersoldier"
     },
     {
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
@@ -14227,8 +14227,8 @@
       "name": "low-techproficient"
     },
     {
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
@@ -14249,8 +14249,8 @@
       "name": "firearmproficient"
     },
     {
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
@@ -14323,7 +14323,11 @@
           "VREH_Uhlan",
           "Waster",
           "AG_Wretch",
-          "Yttakin"
+          "Yttakin",
+          "DV_Bogleg",
+          "DV_Brawnum",
+          "DV_Halffoot",
+          "Stoneborn"
         ],
         "xenotypeFilterEnabled": true
       },
@@ -14384,7 +14388,11 @@
           "VREH_Uhlan",
           "Waster",
           "AG_Wretch",
-          "Yttakin"
+          "Yttakin",
+          "DV_Bogleg",
+          "DV_Brawnum",
+          "DV_Halffoot",
+          "Stoneborn"
         ],
         "xenotypeFilterEnabled": true
       },
