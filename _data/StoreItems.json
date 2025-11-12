@@ -2155,12 +2155,6 @@
       "price": 1167
     },
     {
-      "abr": "hare",
-      "category": "Animals",
-      "defname": "Hare",
-      "price": 83
-    },
-    {
       "abr": "snowhare",
       "category": "Animals",
       "defname": "Snowhare",
@@ -2269,12 +2263,6 @@
       "price": 250
     },
     {
-      "abr": "squirrel",
-      "category": "Animals",
-      "defname": "Squirrel",
-      "price": 58
-    },
-    {
       "abr": "rat",
       "category": "Animals",
       "defname": "Rat",
@@ -2297,12 +2285,6 @@
       "category": "Animals",
       "defname": "Iguana",
       "price": 167
-    },
-    {
-      "abr": "warg",
-      "category": "Animals",
-      "defname": "Warg",
-      "price": 750
     },
     {
       "abr": "timberwolf",
@@ -15988,7 +15970,7 @@
       "abr": "burnpit",
       "category": "Hygiene",
       "defname": "BurnPit",
-      "price": 65
+      "price": -10
     },
     {
       "abr": "burnedbook",
@@ -17141,12 +17123,6 @@
       "category": "Luxury spirits",
       "defname": "VBE_DoubleWhiskey",
       "price": 100
-    },
-    {
-      "abr": "drainer",
-      "category": "Animals",
-      "defname": "AA_Drainer",
-      "price": 417
     },
     {
       "abr": "draineregg(fert.)",
@@ -24142,7 +24118,7 @@
       "abr": "burieddeathpit",
       "category": "Furniture",
       "defname": "VQED_BuriedDeathPit",
-      "price": 21
+      "price": -10
     },
     {
       "abr": "bustedmortar",
@@ -24394,7 +24370,7 @@
       "abr": "lifesupportunit",
       "category": "Misc",
       "defname": "LifeSupportUnit",
-      "price": 333
+      "price": -10
     },
     {
       "abr": "lightarmoredvehiclewreck",
@@ -26203,12 +26179,6 @@
       "price": 4717
     },
     {
-      "abr": "direhorse",
-      "category": "Animals",
-      "defname": "MA_Direhorse",
-      "price": 1500
-    },
-    {
       "abr": "direhorsehide",
       "category": "Leathers",
       "defname": "MA_Leather_Direhorse",
@@ -26500,7 +26470,7 @@
       "abr": "storagepit",
       "category": "Furniture",
       "defname": "ASF_StoragePit",
-      "price": 173
+      "price": -10
     },
     {
       "abr": "storagetent",
@@ -29014,7 +28984,7 @@
       "abr": "mysteriousredchest",
       "category": "Production",
       "defname": "LootBoxBench",
-      "price": 175
+      "price": 750
     },
     {
       "abr": "pandorasbox",
@@ -29039,7 +29009,85 @@
       "category": "Loot boxes",
       "defname": "LootBoxTreasure",
       "price": 1000
+    },
+    {
+      "abr": "razorwire",
+      "category": "Security",
+      "defname": "RazorWire",
+      "price": 18
+    },
+    {
+      "abr": "razorwiregate",
+      "category": "Security",
+      "defname": "RazorWireGate",
+      "price": 82
+    },
+    {
+      "abr": "direhorse",
+      "category": "Animals",
+      "defname": "MA_Direhorse",
+      "price": 1500
+    },
+    {
+      "abr": "drainer",
+      "category": "Animals",
+      "defname": "AA_Drainer",
+      "price": 417
+    },
+    {
+      "abr": "hare",
+      "category": "Animals",
+      "defname": "Hare",
+      "price": 83
+    },
+    {
+      "abr": "squirrel",
+      "category": "Animals",
+      "defname": "Squirrel",
+      "price": 58
+    },
+    {
+      "abr": "warg",
+      "category": "Animals",
+      "defname": "Warg",
+      "price": 750
+    },
+    {
+      "abr": "celestialore",
+      "category": "Raw resources",
+      "defname": "Bart_CelestialOre",
+      "price": 30
+    },
+    {
+      "abr": "mithril",
+      "category": "Raw resources",
+      "defname": "Bart_Mithril",
+      "price": 22
+    },
+    {
+      "abr": "rubinite",
+      "category": "Raw resources",
+      "defname": "Bart_Rubinite",
+      "price": 22
+    },
+    {
+      "abr": "tungsten",
+      "category": "Raw resources",
+      "defname": "Bart_Tungsten",
+      "price": 10
+    },
+    {
+      "abr": "tungstenbars",
+      "category": "Manufactured",
+      "defname": "Bart_TungstenRefined",
+      "price": 22
+    },
+    {
+      "abr": "ultratechscanner",
+      "category": "Misc",
+      "defname": "Bart_DeepScanner",
+      "price": 2500
     }
   ],
-  "total": 4840
+  "total": 4848
 }

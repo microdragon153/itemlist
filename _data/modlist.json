@@ -1674,10 +1674,10 @@
     "version": null
   },
   {
-    "author": "Alex",
-    "name": "Friendly Fire Tweaks",
-    "steamId": "1582686191",
-    "version": "1.4.1.0"
+    "author": "Zaljerem",
+    "name": "Friendly Fire Tweaks (Continued)",
+    "steamId": "3591533573",
+    "version": "0.0.0.0"
   },
   {
     "author": "BotchJob",
@@ -2301,7 +2301,7 @@
     "author": "Mlie",
     "name": "No Version Warning",
     "steamId": "2599504692",
-    "version": "1.6.73"
+    "version": "1.6.74"
   },
   {
     "author": "turkler",
@@ -3201,7 +3201,7 @@
     "author": "Mlie",
     "name": "Use This Instead",
     "steamId": "3396308787",
-    "version": "1.6.134"
+    "version": "1.6.136"
   },
   {
     "author": "ferny",
@@ -3700,5 +3700,23 @@
     "name": "Loot Boxes (Continued)",
     "steamId": "3258852853",
     "version": "1.6.0"
+  },
+  {
+    "author": "Zaljerem",
+    "name": "World Map Enhanced (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "SgtBruce",
+    "name": "Barbs And Moats",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "ThatBartGuy",
+    "name": "Mythical ores",
+    "steamId": null,
+    "version": null
   }
 ]
