@@ -276,11 +276,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "pawn",
-		"price": 1,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "levelskill",
 		"price": 1500,
 		"karmatype": "Good"
@@ -382,7 +377,7 @@
 	},
 	{
 		"abr": "removepassion",
-		"price": 5000,
+		"price": 1500,
 		"karmatype": "Neutral"
 	},
 	{
@@ -436,5 +431,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 87
+	"total": 86
 }

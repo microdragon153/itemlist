@@ -16279,66 +16279,6 @@
     "Mod": "Simple Utilities: Fridge",
     "KarmaType": null
   },
-  "TM_Artifact_RingOfEternalBlue": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": false,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "A RimWorld of Magic",
-    "KarmaType": null
-  },
-  "TM_Artifact_RingOfBlood": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": false,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "A RimWorld of Magic",
-    "KarmaType": null
-  },
-  "TM_Artifact_RingOfKeenIntellect": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": false,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "A RimWorld of Magic",
-    "KarmaType": null
-  },
   "VPE_Apparel_PlateArmorPrestige": {
     "CustomName": null,
     "HasQuantityLimit": false,
@@ -16359,7 +16299,7 @@
     "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "TM_Artifact_BracersOfDeflection": {
+  "Psytrainer_VPEH_Bloodstorm": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -16376,10 +16316,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded - Hemosage",
     "KarmaType": null
   },
-  "TM_Artifact_BracersOfDefense": {
+  "Psytrainer_VPEH_BloodRite": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -16396,127 +16336,7 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
-    "KarmaType": null
-  },
-  "TM_Artifact_BracersOfThePacifist": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": false,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "A RimWorld of Magic",
-    "KarmaType": null
-  },
-  "TM_DreamcatcherCoronet": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": false,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "A RimWorld of Magic",
-    "KarmaType": null
-  },
-  "TM_Necromancer_Hood": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": false,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "A RimWorld of Magic",
-    "KarmaType": null
-  },
-  "TM_Necromancer_Mask": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": false,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "A RimWorld of Magic",
-    "KarmaType": null
-  },
-  "ParagonHelm": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": false,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "A RimWorld of Magic",
-    "KarmaType": null
-  },
-  "RoyalHelm": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": false,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded - Hemosage",
     "KarmaType": null
   },
   "VME_FleshcraftedArm": {
@@ -29619,7 +29439,7 @@
     "Mod": "RimWorld",
     "KarmaType": null
   },
-  "TM_SagesMask": {
+  "Psytrainer_VPEH_SanguineSpear": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -29636,10 +29456,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded - Hemosage",
     "KarmaType": null
   },
-  "HoodOfMadness": {
+  "Psytrainer_VPEH_WordofOffering": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -29656,10 +29476,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded - Hemosage",
     "KarmaType": null
   },
-  "ArcaneHood": {
+  "Psytrainer_VPEH_CorpseExplosion": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -29676,10 +29496,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded - Hemosage",
     "KarmaType": null
   },
-  "TM_DiscipleHood": {
+  "Psytrainer_VPEH_Hemodrain": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -29696,10 +29516,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded - Hemosage",
     "KarmaType": null
   },
-  "TM_HoodOfProtection": {
+  "Psytrainer_VPEH_CloseWounds": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -29716,10 +29536,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded - Hemosage",
     "KarmaType": null
   },
-  "TM_WizardHat": {
+  "Psytrainer_VPEH_BloodSpew": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -29736,10 +29556,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded - Hemosage",
     "KarmaType": null
   },
-  "TM_DragonSlayer": {
+  "Psytrainer_VPEH_BloodShard": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -29756,10 +29576,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded - Hemosage",
     "KarmaType": null
   },
-  "ArchMageRobe": {
+  "Psytrainer_VPEH_Bloodfocus": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -29776,10 +29596,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded - Hemosage",
     "KarmaType": null
   },
-  "TM_Necromancer_Body": {
+  "Psytrainer_VPEP_MindJump": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -29796,10 +29616,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded - Puppeteer",
     "KarmaType": null
   },
-  "TM_DreamcatcherBuckskin": {
+  "Psytrainer_VPEP_Ascension": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -29816,10 +29636,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded - Puppeteer",
     "KarmaType": null
   },
-  "RoyalArmor": {
+  "Psytrainer_VPEP_PuppetSwarm": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -29836,10 +29656,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded - Puppeteer",
     "KarmaType": null
   },
-  "AncientMail": {
+  "Psytrainer_VPEP_MindSplit": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -29856,10 +29676,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded - Puppeteer",
     "KarmaType": null
   },
-  "TM_DiscipleRobe": {
+  "Psytrainer_VPEP_SummonPuppet": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -29876,10 +29696,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded - Puppeteer",
     "KarmaType": null
   },
-  "DarkRobe": {
+  "Psytrainer_VPEP_Puppet": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -29896,10 +29716,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded - Puppeteer",
     "KarmaType": null
   },
-  "DemonLordCloak": {
+  "Psytrainer_VPEP_Degrade": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -29916,10 +29736,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded - Puppeteer",
     "KarmaType": null
   },
-  "TM_MaestersCloak": {
+  "Psytrainer_VPEP_Subjugation": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -29936,10 +29756,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded - Puppeteer",
     "KarmaType": null
   },
-  "TM_MantleOfProtection": {
+  "Psytrainer_VPEP_BrainLeech": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -29956,10 +29776,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded - Puppeteer",
     "KarmaType": null
   },
-  "ManaPotion": {
+  "Psytrainer_VPEP_BrainCut": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -29969,23 +29789,23 @@
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
-    "IsUsable": true,
+    "IsUsable": false,
     "IsEquippable": true,
     "IsWearable": true,
     "KarmaTypeForUsing": null,
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded - Puppeteer",
     "KarmaType": null
   },
-  "TM_WinterStaff": {
+  "Psytrainer_AAVPE_Regeneration": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
-    "IsRanged": true,
+    "IsRanged": false,
     "IsStuffAllowed": true,
-    "IsWeapon": true,
+    "IsWeapon": false,
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
@@ -29996,16 +29816,16 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "TM_BlazingPowerStaff": {
+  "Psytrainer_AAVPE_Electrify": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
-    "IsRanged": true,
+    "IsRanged": false,
     "IsStuffAllowed": true,
-    "IsWeapon": true,
+    "IsWeapon": false,
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
@@ -30016,16 +29836,16 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "TM_DefenderStaff": {
+  "Psytrainer_AAVPE_Laser": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
-    "IsRanged": true,
+    "IsRanged": false,
     "IsStuffAllowed": true,
-    "IsWeapon": true,
+    "IsWeapon": false,
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
@@ -30036,16 +29856,16 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "TM_LightningWand": {
+  "Psytrainer_AAVPE_AcidSpit": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
-    "IsRanged": true,
+    "IsRanged": false,
     "IsStuffAllowed": true,
-    "IsWeapon": true,
+    "IsWeapon": false,
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
@@ -30056,16 +29876,16 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "TM_IceWand": {
+  "Psytrainer_AAVPE_LightSustenance": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
-    "IsRanged": true,
+    "IsRanged": false,
     "IsStuffAllowed": true,
-    "IsWeapon": true,
+    "IsWeapon": false,
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
@@ -30076,16 +29896,16 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "TM_FireWand": {
+  "Psytrainer_AAVPE_WebSlinging": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
-    "IsRanged": true,
+    "IsRanged": false,
     "IsStuffAllowed": true,
-    "IsWeapon": true,
+    "IsWeapon": false,
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
@@ -30096,16 +29916,16 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "TM_DemonFang": {
+  "Psytrainer_AAVPE_FungalSkin": {
     "CustomName": null,
     "HasQuantityLimit": false,
-    "IsMelee": true,
+    "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
-    "IsWeapon": true,
+    "IsWeapon": false,
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
@@ -30116,16 +29936,16 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "TM_ThrumBow": {
+  "Psytrainer_AAVPE_Hover": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
-    "IsRanged": true,
+    "IsRanged": false,
     "IsStuffAllowed": true,
-    "IsWeapon": true,
+    "IsWeapon": false,
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
@@ -30136,16 +29956,16 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "TM_Ruunbled": {
+  "Psytrainer_AAVPE_ChemfuelNodules": {
     "CustomName": null,
     "HasQuantityLimit": false,
-    "IsMelee": true,
+    "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
-    "IsWeapon": true,
+    "IsWeapon": false,
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
@@ -30156,16 +29976,16 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "TM_Decimation": {
+  "Psytrainer_AAVPE_FatalBlow": {
     "CustomName": null,
     "HasQuantityLimit": false,
-    "IsMelee": true,
+    "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
-    "IsWeapon": true,
+    "IsWeapon": false,
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
@@ -30176,16 +29996,16 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "TM_GloryMaul": {
+  "Psytrainer_AAVPE_KO": {
     "CustomName": null,
     "HasQuantityLimit": false,
-    "IsMelee": true,
+    "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
-    "IsWeapon": true,
+    "IsWeapon": false,
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
@@ -30196,16 +30016,16 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "TM_ThrumboSaber": {
+  "Psytrainer_AAVPE_LegSkip": {
     "CustomName": null,
     "HasQuantityLimit": false,
-    "IsMelee": true,
+    "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
-    "IsWeapon": true,
+    "IsWeapon": false,
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
@@ -30216,16 +30036,16 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "TM_ThrumboAxe": {
+  "Psytrainer_AAVPE_SpinCut": {
     "CustomName": null,
     "HasQuantityLimit": false,
-    "IsMelee": true,
+    "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
-    "IsWeapon": true,
+    "IsWeapon": false,
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
@@ -30236,16 +30056,16 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "TM_ElephantBow": {
+  "Psytrainer_AAVPE_EmpBlow": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
-    "IsRanged": true,
+    "IsRanged": false,
     "IsStuffAllowed": true,
-    "IsWeapon": true,
+    "IsWeapon": false,
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
@@ -30256,16 +30076,16 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "TM_ElephantTusk": {
+  "Psytrainer_AAVPE_ChargeAndSkewer": {
     "CustomName": null,
     "HasQuantityLimit": false,
-    "IsMelee": true,
+    "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
-    "IsWeapon": true,
+    "IsWeapon": false,
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
@@ -30276,16 +30096,16 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "TM_ElephantSpear": {
+  "Psytrainer_AAVPE_Charge": {
     "CustomName": null,
     "HasQuantityLimit": false,
-    "IsMelee": true,
+    "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
-    "IsWeapon": true,
+    "IsWeapon": false,
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
@@ -30296,10 +30116,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "GemstoneOfInsight_Might": {
+  "Psytrainer_AAVPE_Skewer": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -30316,10 +30136,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "GemstoneOfInsight_Magic": {
+  "Psytrainer_AAVPE_DisablingStrike": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -30336,10 +30156,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "SkillOf_HerbalClarity": {
+  "Psytrainer_AAVPE_ClawFrenzy": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -30356,10 +30176,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "SkillOf_HerbalBliss": {
+  "Psytrainer_AAVPE_Slice": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -30376,10 +30196,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "SkillOf_ThickSkin": {
+  "Psytrainer_AAVPE_GreaterOcularSprout": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -30396,10 +30216,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "SkillOf_TempestStrike": {
+  "Psytrainer_AAVPE_SummonEyelingHorde": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -30416,10 +30236,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "SkillOf_Taunt": {
+  "Psytrainer_AAVPE_SummonOcularOriginator": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -30436,10 +30256,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "SkillOf_StrongBack": {
+  "Psytrainer_AAVPE_EyeEruption": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -30456,10 +30276,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "SkillOf_Sprint": {
+  "Psytrainer_AAVPE_StrikeEyes": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -30476,10 +30296,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "SkillOf_PommelStrike": {
+  "Psytrainer_AAVPE_OcularSprout": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -30496,10 +30316,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "SkillOf_Legion": {
+  "Psytrainer_AAVPE_SummonEyeling": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -30516,10 +30336,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "SkillOf_InnerHealing": {
+  "Psytrainer_AAVPE_SummonHive": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -30536,10 +30356,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "SkillOf_HeavyBlow": {
+  "Psytrainer_AAVPE_SummonBlackQueen": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -30556,10 +30376,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "SkillOf_GearRepair": {
+  "Psytrainer_AAVPE_SummonMammothWorm": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -30576,10 +30396,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "SkillOf_FightersFocus": {
+  "Psytrainer_AAVPE_SummonBlackSpider": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -30596,10 +30416,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "SkillOf_BurningFury": {
+  "Psytrainer_AAVPE_StrengthenInsect": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -30616,10 +30436,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "SkillOf_ThrowingKnife": {
+  "Psytrainer_AAVPE_SummonBlackSpelopede": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -30636,10 +30456,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "SpellOf_SpiritOfLight": {
+  "Psytrainer_AAVPE_SummonBlackScarab": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -30656,10 +30476,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "SpellOf_SummonPoppi": {
+  "Psytrainer_AAVPE_VenomSpit": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -30676,10 +30496,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "SpellOf_Shapeshift": {
+  "Psytrainer_VPE_SummonPack": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -30696,10 +30516,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "SpellOf_Scorn": {
+  "Psytrainer_VPE_EssenceTransfer": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -30716,10 +30536,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "SpellOf_Resurrection": {
+  "Psytrainer_VPE_Shrineshield": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -30736,10 +30556,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "SpellOf_RegrowLimb": {
+  "Psytrainer_VPE_AnimalAllies": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -30756,10 +30576,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "SpellOf_Recall": {
+  "Psytrainer_VPE_ShieldAnimals": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -30776,10 +30596,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "SpellOf_PsychicShock": {
+  "Psytrainer_VPE_TreeSprout": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -30796,10 +30616,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "SpellOf_OrbitalStrike": {
+  "Psytrainer_VPE_ManhunterPulse": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -30816,10 +30636,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "SpellOf_Meteor": {
+  "Psytrainer_VPE_WordofAnimals": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -30836,10 +30656,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "SpellOf_LivingWall": {
+  "Psytrainer_VPE_CropBurst": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -30856,10 +30676,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "SpellOf_LichForm": {
+  "Psytrainer_VPE_BrambleMaze": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -30876,10 +30696,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "SpellOf_HolyWrath": {
+  "Psytrainer_VPE_MassBeckon": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -30896,10 +30716,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "SpellOf_GuardianSpirit": {
+  "Psytrainer_VPE_Killskip": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -30916,10 +30736,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "SpellOf_FoldReality": {
+  "Psytrainer_VPE_Beckon": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -30936,10 +30756,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "SpellOf_Firestorm": {
+  "Psytrainer_VPE_GuidedShot": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -30956,10 +30776,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "SpellOf_EyeOfTheStorm": {
+  "Psytrainer_VPE_ControlledFrenzy": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -30976,10 +30796,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "SpellOf_BloodMoon": {
+  "Psytrainer_VPE_AdrenalineRush": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -30996,10 +30816,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "SpellOf_Blizzard": {
+  "Psytrainer_VPE_PowerLeap": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -31016,10 +30836,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "SpellOf_BattleHymn": {
+  "Psytrainer_VPE_FiringFocus": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -31036,10 +30856,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "SpellOf_TechnoShield": {
+  "Psytrainer_VPE_BladeFocus": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -31056,10 +30876,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "SpellOf_Sabotage": {
+  "Psytrainer_VPE_SpeedBoost": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -31076,10 +30896,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "SpellOf_Overdrive": {
+  "Psytrainer_VPE_ReverseEngineer": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -31096,10 +30916,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "SpellOf_MechaniteReprogramming": {
+  "Psytrainer_VPE_WordofProgress": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -31116,10 +30936,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "SpellOf_AlterStorm": {
+  "Psytrainer_VPE_CraftPsyRing": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -31136,10 +30956,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "SpellOf_FertileLands": {
+  "Psytrainer_VPE_SteelConstruct": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -31156,10 +30976,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "SpellOf_BriarPatch": {
+  "Psytrainer_VPE_RockConstruct": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -31176,10 +30996,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "SpellOf_BlankMind": {
+  "Psytrainer_VPE_Power": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -31196,10 +31016,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "SpellOf_FadeEmotions": {
+  "Psytrainer_VPE_Haywire": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -31216,10 +31036,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "SpellOf_TransferMana": {
+  "Psytrainer_VPE_ConjureHeatPearls": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -31236,10 +31056,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "SpellOf_Teleport": {
+  "Psytrainer_VPE_Mend": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -31256,10 +31076,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "SpellOf_SummonMinion": {
+  "Psytrainer_VPE_EnchantQuality": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -31276,10 +31096,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "SpellOf_SiphonMana": {
+  "Psytrainer_VPE_Flashstorm": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -31296,10 +31116,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "SpellOf_SpellMending": {
+  "Psytrainer_VPE_Hurricane": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -31316,10 +31136,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "SpellOf_ShieldOther": {
+  "Psytrainer_VPE_Vortex": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -31336,10 +31156,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "SpellOf_ManaShield": {
+  "Psytrainer_VPE_StaticPulse": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -31356,10 +31176,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "SpellOf_LightningTrap": {
+  "Psytrainer_VPE_BallLightning": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -31376,10 +31196,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "SpellOf_Invisibility": {
+  "Psytrainer_VPE_Recharge": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -31396,10 +31216,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "SpellOf_MagicWardrobe": {
+  "Psytrainer_VPE_StaticAura": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -31416,10 +31236,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "SpellOf_WetGround": {
+  "Psytrainer_VPE_Thunderbolt": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -31436,10 +31256,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "SpellOf_DryGround": {
+  "Psytrainer_VPE_ChainBolt": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -31456,10 +31276,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "SpellOf_Discord": {
+  "Psytrainer_VPE_Bolt": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -31476,10 +31296,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "SpellOf_ConsumeCorpse_Mass": {
+  "Psytrainer_VPE_Farskip": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -31496,10 +31316,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "SpellOf_CauterizeWound": {
+  "Psytrainer_VPE_Skipdoor": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -31516,10 +31336,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "SpellOf_ChargeBattery": {
+  "Psytrainer_VPE_MassChaosSkip": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -31536,10 +31356,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "SpellOf_BrandAwareness": {
+  "Psytrainer_VPE_Smokepop": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -31556,10 +31376,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "SpellOf_BrandProtection": {
+  "Psytrainer_VPE_Wallraise": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -31576,10 +31396,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "SpellOf_BrandVitality": {
+  "Psytrainer_VPE_Skip": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -31596,10 +31416,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "SpellOf_BrandEmotion": {
+  "Psytrainer_VPE_ChaosSkip": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -31616,10 +31436,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "SpellOf_BrandFitness": {
+  "Psytrainer_VPE_Waterskip": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -31636,10 +31456,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "SpellOf_BrandSiphon": {
+  "Psytrainer_VPE_Chunkskip": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -31656,10 +31476,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "SpellOf_Sunlight": {
+  "Psytrainer_VPE_SolarPinhole": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -31676,10 +31496,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "SpellOf_SmokeCloud": {
+  "Psytrainer_VPE_GuardianSkipbarrier": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -31696,10 +31516,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "SpellOf_SnapFreeze": {
+  "Psytrainer_VPE_RegrowLimbs": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -31716,10 +31536,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "SpellOf_Rain": {
+  "Psytrainer_VPE_Invisibility": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -31736,10 +31556,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "SpellOf_PowerNode": {
+  "Psytrainer_VPE_Skipshield": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -31756,10 +31576,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "SpellOf_MageLight": {
+  "Psytrainer_VPE_Focus": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -31776,10 +31596,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "SpellOf_Ignite": {
+  "Psytrainer_VPE_Overshield": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -31796,10 +31616,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "SpellOf_Heater": {
+  "Psytrainer_VPE_WordofImmunity": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -31816,10 +31636,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "SpellOf_HeatShield": {
+  "Psytrainer_VPE_Stabilize": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -31836,10 +31656,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "SpellOf_Heal": {
+  "Psytrainer_VPE_WordofHealing": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -31856,10 +31676,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "SpellOf_Extinguish": {
+  "Psytrainer_VPE_Painblock": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -31876,10 +31696,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "SpellOf_EMP": {
+  "Psytrainer_VPE_Nightstep": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -31896,10 +31716,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "SpellOf_DirtDevil": {
+  "Psytrainer_VPE_Assassinate": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -31916,10 +31736,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "SpellOf_Cooler": {
+  "Psytrainer_VPE_IntensifyShadows": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -31936,10 +31756,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "SpellOf_Blur": {
+  "Psytrainer_VPE_ShadowFocus": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -31956,10 +31776,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "SpellOf_Blink": {
+  "Psytrainer_VPE_Decoy": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -31976,10 +31796,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "SpellOf_ArcaneBolt": {
+  "Psytrainer_VPE_Shadowskip": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -31996,10 +31816,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "BookOfApothecary": {
+  "Psytrainer_VPE_Eclipse": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -32016,10 +31836,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "BookOfShadow": {
+  "Psytrainer_VPE_Obscure": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -32036,10 +31856,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "BookOfSuperSoldier": {
+  "Psytrainer_VPE_Darkness": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -32056,10 +31876,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "BookOfCommander": {
+  "Psytrainer_VPE_Darkvision": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -32076,10 +31896,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "BookOfMonk": {
+  "Psytrainer_VPE_Resurrect": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -32096,10 +31916,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "BookOfDeathKnight": {
+  "Psytrainer_VPE_Enthrall": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -32116,10 +31936,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "BookOfRanger": {
+  "Psytrainer_VPE_Deathshield": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -32136,10 +31956,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "BookOfBladedancer": {
+  "Psytrainer_VPE_ConsumeBodies": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -32156,10 +31976,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "BookOfSniper": {
+  "Psytrainer_VPE_Ghostwalk": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -32176,10 +31996,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "BookOfFaceless": {
+  "Psytrainer_VPE_Corpsetalk": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -32196,10 +32016,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "BookOfPsionic": {
+  "Psytrainer_VPE_ParalysisPulse": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -32216,10 +32036,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "BookOfGladiator": {
+  "Psytrainer_VPE_StealVitality": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -32236,10 +32056,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "BookOfGolemancy": {
+  "Psytrainer_VPE_Liferot": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -32256,10 +32076,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "BookOfShamanism": {
+  "Psytrainer_VPE_WordofFear": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -32276,10 +32096,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "BookOfTheSun": {
+  "Psytrainer_VPE_SkillRoll": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -32296,10 +32116,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "BookOfChaos": {
+  "Psytrainer_VPE_Transmutation": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -32316,10 +32136,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "BookOfChronomancer": {
+  "Psytrainer_VPE_HealthSwap": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -32336,10 +32156,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "BookOfEnchanter": {
+  "Psytrainer_VPE_LocationSwap": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -32356,10 +32176,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "BookOfHemomancy": {
+  "Psytrainer_VPE_BendProbability": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -32376,10 +32196,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "BookOfMagitech": {
+  "Psytrainer_VPE_LuckTransfer": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -32396,10 +32216,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "BookOfEarth": {
+  "Psytrainer_VPE_HeatFocus": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -32416,10 +32236,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "BookOfDemons": {
+  "Psytrainer_VPE_TransmuteStone": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -32436,10 +32256,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "BookOfBard": {
+  "Psytrainer_VPE_PsychicGuidance": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -32456,10 +32276,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "BookOfPriest": {
+  "Psytrainer_VPE_Mindcontrol": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -32476,10 +32296,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "BookOfNecromancer": {
+  "Psytrainer_VPE_Blizzard": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -32496,10 +32316,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "BookOfDruid": {
+  "Psytrainer_VPE_IceWall": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -32516,10 +32336,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "BookOfSummoner": {
+  "Psytrainer_VPE_SnapFreeze": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -32536,10 +32356,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "BookOfValiant": {
+  "Psytrainer_VPE_IceBlock": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -32556,10 +32376,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "BookOfArcanist": {
+  "Psytrainer_VPE_ColdZone": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -32576,10 +32396,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "BookOfStormBorn": {
+  "Psytrainer_VPE_IceCrystal": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -32596,10 +32416,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "BookOfHeartOfFrost": {
+  "Psytrainer_VPE_FrostRay": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -32616,7 +32436,7 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
   "VWEL_Gun_SalvagedLaserShotgun": {
@@ -37739,7 +37559,7 @@
     "Mod": "Mythic Ages: Megafauna Bestiary",
     "KarmaType": null
   },
-  "BookOfInnerFire": {
+  "Psytrainer_VPE_IceShield": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -37756,10 +37576,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "Torn_BookOfGolemancy": {
+  "Psytrainer_VPE_IceSpike": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -37776,10 +37596,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "Torn_BookOfShamanism": {
+  "Psytrainer_VPE_IceBreath": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -37796,10 +37616,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "Torn_BookOfTheSun": {
+  "Psytrainer_VPE_ReunionFarskip": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -37816,10 +37636,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "Torn_BookOfChaos": {
+  "Psytrainer_VPE_MindWipe": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -37836,10 +37656,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "Torn_BookOfChronomancer": {
+  "Psytrainer_VPE_EnergyDump": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -37856,10 +37676,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "Torn_BookOfEnchanter": {
+  "Psytrainer_VPE_Bliss": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -37876,10 +37696,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "Torn_BookOfHemomancy": {
+  "Psytrainer_VPE_SootheFemale": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -37896,10 +37716,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "Torn_BookOfMagitech": {
+  "Psytrainer_VPE_SootheMale": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -37916,10 +37736,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "Torn_BookOfEarth": {
+  "Psytrainer_VPE_WordofInspiration": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -37936,10 +37756,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "Torn_BookOfDemons": {
+  "Psytrainer_VPE_WordofSerenity": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -37956,10 +37776,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "Torn_BookOfBard": {
+  "Psytrainer_VPE_WordofLove": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -37976,10 +37796,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "Torn_BookOfPriest": {
+  "Psytrainer_VPE_WordofJoy": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -37996,10 +37816,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "Torn_BookOfUndead": {
+  "Psytrainer_VPE_FlameTornado": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -38016,10 +37836,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "Torn_BookOfNature": {
+  "Psytrainer_VPE_FireBeam": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -38036,10 +37856,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "Torn_BookOfSummoner": {
+  "Psytrainer_VPE_MeteorShower": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -38056,10 +37876,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "Torn_BookOfValiant": {
+  "Psytrainer_VPE_QuenchFlames": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -38076,10 +37896,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "Torn_BookOfArcanist": {
+  "Psytrainer_VPE_EyeBlast": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -38096,10 +37916,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "Torn_BookOfStormBorn": {
+  "Psytrainer_VPE_BreatheFlame": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -38116,10 +37936,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "Torn_BookOfHeartOfFrost": {
+  "Psytrainer_VPE_FireShield": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -38136,10 +37956,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "Torn_BookOfInnerFire": {
+  "Psytrainer_VPE_Explosion": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -38156,7 +37976,7 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
   "WB_Storykeeper": {
@@ -47699,7 +47519,7 @@
     "Mod": null,
     "KarmaType": null
   },
-  "BookOfQuestion": {
+  "Psytrainer_VPE_SelfExplosion": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -47716,10 +47536,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "TM_Demonscale": {
+  "Psytrainer_VPE_Flameball": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -47736,10 +47556,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "TM_Demonhide": {
+  "Psytrainer_VPE_Timequake": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -47756,10 +47576,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "TM_Arcalleum": {
+  "Psytrainer_VPE_TimeReversal": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -47776,10 +47596,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "TM_Manaweave": {
+  "Psytrainer_VPE_TimeSphere": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -47796,10 +47616,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "RawMagicyte": {
+  "Psytrainer_VPE_SeasonTimeskip": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -47816,10 +47636,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "TM_EStone_wonder_major": {
+  "Psytrainer_VPE_RaidPause": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -47836,10 +47656,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "TM_EStone_wonder": {
+  "Psytrainer_VPE_Age": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -47856,7 +47676,7 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
   "BS_MealLargeLavish_Meat": {
@@ -48159,7 +47979,7 @@
     "Mod": "Big and Small - Genes & More",
     "KarmaType": null
   },
-  "TM_EStone_wonder_minor": {
+  "Psytrainer_VPE_CraftTimeskip": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -48176,10 +47996,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "TM_EStone_arcaneDmg_major": {
+  "Psytrainer_VPE_WordofForetelling": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -48196,10 +48016,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "TM_EStone_arcaneDmg": {
+  "Psytrainer_VPE_TimeskipMeditation": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -48216,10 +48036,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "TM_EStone_arcaneDmg_minor": {
+  "Psytrainer_VPE_PlantTimeskip": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -48236,10 +48056,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "TM_EStone_arcaneRes_major": {
+  "Psytrainer_VPE_Neuroquake": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -48256,10 +48076,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "TM_EStone_arcaneRes": {
+  "Psytrainer_VPE_NeuralHeatDetonation": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -48276,10 +48096,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "TM_EStone_arcaneRes_minor": {
+  "Psytrainer_VPE_PsychicDrone": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -48296,10 +48116,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "TM_EStone_xpGain_major": {
+  "Psytrainer_VPE_BerserkPulse": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -48316,7 +48136,7 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
   "AA_DarkGlowPod": {
@@ -54879,7 +54699,7 @@
     "Mod": "Vanilla Fishing Expanded",
     "KarmaType": null
   },
-  "TM_EStone_xpGain": {
+  "Psytrainer_VPE_AggressiveHeatDump": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -54896,10 +54716,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "TM_EStone_xpGain_minor": {
+  "Psytrainer_VPE_Berserk": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -54916,10 +54736,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "TM_EStone_coolDown_major": {
+  "Psytrainer_VPE_NeuralHeatDump": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -54936,10 +54756,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "TM_EStone_coolDown": {
+  "Psytrainer_VPE_PsychicShock": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -54956,10 +54776,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "TM_EStone_coolDown_minor": {
+  "Psytrainer_VPE_Stun": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -54976,10 +54796,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "TM_EStone_mpCost_major": {
+  "Psytrainer_VPE_Burden": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -54996,10 +54816,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "TM_EStone_mpCost": {
+  "Psytrainer_VPE_MassHallucination": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -55016,10 +54836,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "TM_EStone_mpCost_minor": {
+  "Psytrainer_VPE_DrainPsyessence": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -55036,7 +54856,7 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
   "Airdrop": {
@@ -59180,66 +59000,6 @@
     "KarmaType": null
   },
   "HygieneEnhancer": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": false,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Dubs Bad Hygiene",
-    "KarmaType": null
-  },
-  "sewagePipeStuff": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": false,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Dubs Bad Hygiene",
-    "KarmaType": null
-  },
-  "sewagePipeHidden": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": false,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Dubs Bad Hygiene",
-    "KarmaType": null
-  },
-  "plumbingValve": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -79879,7 +79639,7 @@
     "Mod": "Integrated Implants",
     "KarmaType": null
   },
-  "TM_EStone_mpRegenRate_major": {
+  "Psytrainer_VPE_WordofProtection": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -79896,10 +79656,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "TM_EStone_mpRegenRate": {
+  "Psytrainer_VPE_MindBreak": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -79916,10 +79676,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "TM_EStone_mpRegenRate_minor": {
+  "Psytrainer_VPE_WordofPain": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -79936,10 +79696,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "TM_EStone_maxMP_major": {
+  "Psytrainer_VPE_GroupLink": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -79956,10 +79716,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "TM_EStone_maxMP": {
+  "Psytrainer_VPE_WordofAlliance": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -79976,10 +79736,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "TM_EStone_maxMP_minor": {
+  "Psytrainer_VPE_BlindingPulse": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -79996,10 +79756,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "SeedofRegrowth": {
+  "Psytrainer_VPE_WordofProductivity": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -80016,50 +79776,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "TM_MagicArtifact_MagicEssence": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "A RimWorld of Magic",
-    "KarmaType": null
-  },
-  "TM_MagicArtifact_MightEssence": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "A RimWorld of Magic",
-    "KarmaType": null
-  },
-  "TM_Artifact_ClassExtraction": {
+  "Psytrainer_VPE_WordofTrust": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -80076,10 +79796,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "MagicArtifact_RerollSpiritBond": {
+  "Fish_VoltaicGrouper": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -80096,10 +79816,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Aqued Dredge Aberrations",
     "KarmaType": null
   },
-  "TM_Dire_WolfR": {
+  "Fish_Voideye": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -80116,10 +79836,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Aqued Dredge Aberrations",
     "KarmaType": null
   },
-  "TM_SilkGolem": {
+  "Fish_NightwingCatfish": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -80136,10 +79856,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Aqued Dredge Aberrations",
     "KarmaType": null
   },
-  "TM_WoodGolem": {
+  "Fish_GrotesqueMaquerel": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -80156,10 +79876,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Aqued Dredge Aberrations",
     "KarmaType": null
   },
-  "TM_StrawGolem": {
+  "Fish_CursedFangtooth": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -80176,10 +79896,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Aqued Dredge Aberrations",
     "KarmaType": null
   },
-  "TM_MaharalGolem": {
+  "Fish_AstralIcefish": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -80196,10 +79916,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Aqued Dredge Aberrations",
     "KarmaType": null
   },
-  "TM_HollowGolem": {
+  "Fish_AllSeeingCod": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -80216,10 +79936,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Aqued Dredge Aberrations",
     "KarmaType": null
   },
-  "TM_FleshGolem": {
+  "Turn_PsychicAssistant": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -80236,267 +79956,7 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
-    "KarmaType": null
-  },
-  "TM_MechaGolem": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": false,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "A RimWorld of Magic",
-    "KarmaType": null
-  },
-  "TM_MarbleGolem": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": false,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "A RimWorld of Magic",
-    "KarmaType": null
-  },
-  "TM_SlateGolem": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": false,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "A RimWorld of Magic",
-    "KarmaType": null
-  },
-  "TM_GraniteGolem": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": false,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "A RimWorld of Magic",
-    "KarmaType": null
-  },
-  "TM_LimestoneGolem": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": false,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "A RimWorld of Magic",
-    "KarmaType": null
-  },
-  "TM_SandstoneGolem": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": false,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "A RimWorld of Magic",
-    "KarmaType": null
-  },
-  "TM_StoneGolem": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": false,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "A RimWorld of Magic",
-    "KarmaType": null
-  },
-  "TM_CombatManual": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": false,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "A RimWorld of Magic",
-    "KarmaType": null
-  },
-  "TM_Grimoire": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": false,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "A RimWorld of Magic",
-    "KarmaType": null
-  },
-  "DV_MeleeWeapon_ArcWrench": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": true,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": true,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": false,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Det's Xenotypes - Half-foot",
-    "KarmaType": null
-  },
-  "DV_Apparel_ServiceHeadset": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": false,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Det's Xenotypes - Half-foot",
-    "KarmaType": null
-  },
-  "DV_Handwear_KnuckleDusters": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": false,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Det's Xenotypes - Boglegs",
-    "KarmaType": null
-  },
-  "DV_TongoTable": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": false,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Det's Xenotypes - Boglegs",
+    "Mod": "Simply More Implants",
     "KarmaType": null
   },
   "Kitty_CompressedWaterTank": {
@@ -80537,26 +79997,6 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "Dubs' Bad Hygiene - Odyssey Gravship Addon",
-    "KarmaType": null
-  },
-  "DV_Apparel_HaySunhat": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": false,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Det's Xenotypes - Brawnum",
     "KarmaType": null
   },
   "StimpackUltratech": {
@@ -82400,66 +81840,6 @@
     "KarmaType": null
   },
   "QRY_Platform": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": false,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Quarry",
-    "KarmaType": null
-  },
-  "QRY_MiniQuarry": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": false,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Quarry",
-    "KarmaType": null
-  },
-  "QRY_MediQuarry": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": false,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Quarry",
-    "KarmaType": null
-  },
-  "QRY_Quarry": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -95559,7 +94939,167 @@
     "Mod": "Complementary Odyssey",
     "KarmaType": null
   },
-  "TM_Artifact_RingOfMalice": {
+  "AM_DemolisherChargeBase": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": false,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Alpha Mechs",
+    "KarmaType": null
+  },
+  "AM_SiegebreakerTurret": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": false,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Alpha Mechs",
+    "KarmaType": null
+  },
+  "AM_CryogenicGun": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": false,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Alpha Mechs",
+    "KarmaType": null
+  },
+  "AM_Gun_GoliathNeedle": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": false,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Alpha Mechs",
+    "KarmaType": null
+  },
+  "AM_Gun_GoliathChargeBlaster": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": false,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Alpha Mechs",
+    "KarmaType": null
+  },
+  "AM_Flamethrower": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": false,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Alpha Mechs",
+    "KarmaType": null
+  },
+  "AM_MechanoidGunRotaryNeedle": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": false,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Alpha Mechs",
+    "KarmaType": null
+  },
+  "AM_Gun_TacticalShotgun": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": false,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Alpha Mechs",
+    "KarmaType": null
+  },
+  "AA_Summoned_Eyeling": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -95576,10 +95116,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "TM_Artifact_OrbOfConviction": {
+  "AA_OcularOriginator": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -95596,10 +95136,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "TM_Artifact_OrbOfSouls": {
+  "AAVPE_BlackQueen": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -95616,10 +95156,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "TM_Artifact_OrbOfSouls_Full": {
+  "AA_BlackLarvae": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -95636,10 +95176,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "TM_Artifact_OrbOfEternal": {
+  "AA_MammothWorm_Temporary": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -95656,10 +95196,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "TM_Artifact_NecroticOrb": {
+  "AA_BlackSpider_Temporary": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -95676,70 +95216,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "TM_RawPomanasyrrium": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "A RimWorld of Magic",
-    "KarmaType": null
-  },
-  "TM_RawPomanaMash": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "A RimWorld of Magic",
-    "KarmaType": null
-  },
-  "TM_Syrrium": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "A RimWorld of Magic",
-    "KarmaType": null
-  },
-  "UnfinishedArcane": {
+  "AA_BlackSpelopede_Temporary": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -95756,10 +95236,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "UnfinishedAdvArcane": {
+  "AA_BlackScarab_Temporary": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -95776,10 +95256,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "UnfinishedMartial": {
+  "VPE_HeatPearls": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -95796,10 +95276,70 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "Psytrainer_Painblock": {
+  "VPE_MeleeWeapon_EltexSword": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": true,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": false,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Vanilla Psycasts Expanded",
+    "KarmaType": null
+  },
+  "VPE_MeleeWeapon_EltexMace": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": true,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": false,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Vanilla Psycasts Expanded",
+    "KarmaType": null
+  },
+  "VPE_MeleeWeapon_EltexDagger": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": true,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": false,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Vanilla Psycasts Expanded",
+    "KarmaType": null
+  },
+  "VPE_SummonedSkeleton": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -95816,10 +95356,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Royalty",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "Psytrainer_Stun": {
+  "VPE_RockConstruct": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -95836,10 +95376,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Royalty",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "Psytrainer_Burden": {
+  "VPE_SteelConstruct": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -95856,10 +95396,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Royalty",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "Psytrainer_BlindingPulse": {
+  "VPE_Psyring": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -95876,10 +95416,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Royalty",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "Psytrainer_EntropyDump": {
+  "VPE_Apparel_EltexCape": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -95896,10 +95436,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Royalty",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "Psytrainer_Beckon": {
+  "VPE_Apparel_EltexMask": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -95916,10 +95456,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Royalty",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "Psytrainer_VertigoPulse": {
+  "VPE_Eltex": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -95936,16 +95476,16 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Royalty",
+    "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "Psytrainer_ChaosSkip": {
+  "Gun_NeedleLauncher": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
-    "IsRanged": false,
+    "IsRanged": true,
     "IsStuffAllowed": true,
-    "IsWeapon": false,
+    "IsWeapon": true,
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
@@ -95956,16 +95496,16 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Royalty",
+    "Mod": "Biotech",
     "KarmaType": null
   },
-  "Psytrainer_Skip": {
+  "Gun_ToxicNeedle": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
-    "IsRanged": false,
+    "IsRanged": true,
     "IsStuffAllowed": true,
-    "IsWeapon": false,
+    "IsWeapon": true,
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
@@ -95976,16 +95516,16 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Royalty",
+    "Mod": "Biotech",
     "KarmaType": null
   },
-  "Psytrainer_Wallraise": {
+  "Gun_MiniFlameblaster": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
-    "IsRanged": false,
+    "IsRanged": true,
     "IsStuffAllowed": true,
-    "IsWeapon": false,
+    "IsWeapon": true,
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
@@ -95996,16 +95536,16 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Royalty",
+    "Mod": "Biotech",
     "KarmaType": null
   },
-  "Psytrainer_Smokepop": {
+  "Gun_Spiner": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
-    "IsRanged": false,
+    "IsRanged": true,
     "IsStuffAllowed": true,
-    "IsWeapon": false,
+    "IsWeapon": true,
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
@@ -96016,16 +95556,16 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Royalty",
+    "Mod": "Biotech",
     "KarmaType": null
   },
-  "Psytrainer_Focus": {
+  "Gun_Slugthrower": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
-    "IsRanged": false,
+    "IsRanged": true,
     "IsStuffAllowed": true,
-    "IsWeapon": false,
+    "IsWeapon": true,
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
@@ -96036,16 +95576,16 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Royalty",
+    "Mod": "Biotech",
     "KarmaType": null
   },
-  "Psytrainer_Berserk": {
+  "Gun_MiniShotgun": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
-    "IsRanged": false,
+    "IsRanged": true,
     "IsStuffAllowed": true,
-    "IsWeapon": false,
+    "IsWeapon": true,
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
@@ -96056,447 +95596,7 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Royalty",
-    "KarmaType": null
-  },
-  "Psytrainer_Invisibility": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": false,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Royalty",
-    "KarmaType": null
-  },
-  "Psytrainer_BerserkPulse": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": false,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Royalty",
-    "KarmaType": null
-  },
-  "Psytrainer_ManhunterPulse": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": false,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Royalty",
-    "KarmaType": null
-  },
-  "Psytrainer_MassChaosSkip": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": false,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Royalty",
-    "KarmaType": null
-  },
-  "Psytrainer_Waterskip": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": false,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Royalty",
-    "KarmaType": null
-  },
-  "Psytrainer_Flashstorm": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": false,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Royalty",
-    "KarmaType": null
-  },
-  "Psytrainer_BulletShield": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": false,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Royalty",
-    "KarmaType": null
-  },
-  "Psytrainer_SolarPinhole": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": false,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Royalty",
-    "KarmaType": null
-  },
-  "Psytrainer_WordOfTrust": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": false,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Royalty",
-    "KarmaType": null
-  },
-  "Psytrainer_WordOfJoy": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": false,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Royalty",
-    "KarmaType": null
-  },
-  "Psytrainer_WordOfLove": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": false,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Royalty",
-    "KarmaType": null
-  },
-  "Psytrainer_WordOfSerenity": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": false,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Royalty",
-    "KarmaType": null
-  },
-  "Psytrainer_WordOfInspiration": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": false,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Royalty",
-    "KarmaType": null
-  },
-  "Psytrainer_Farskip": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": false,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Royalty",
-    "KarmaType": null
-  },
-  "Psytrainer_Neuroquake": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": false,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Royalty",
-    "KarmaType": null
-  },
-  "Psytrainer_Chunkskip": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": false,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Royalty",
-    "KarmaType": null
-  },
-  "TM_Plant_Pomanasyrrium_SeedBundle": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": false,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": null,
-    "KarmaType": null
-  },
-  "TM_Plant_Paracyte_SeedBundle": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": false,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": null,
-    "KarmaType": null
-  },
-  "Xenogerm_DV_Brawnum": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": false,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Det's Xenotypes - Brawnum",
-    "KarmaType": null
-  },
-  "Xenogerm_DV_Bogleg": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": false,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Det's Xenotypes - Boglegs",
-    "KarmaType": null
-  },
-  "Xenogerm_DV_Halffoot": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": false,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Det's Xenotypes - Half-foot",
-    "KarmaType": null
-  },
-  "Xenogerm_Stoneborn": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": false,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Det's Xenotypes - Stoneborn",
+    "Mod": "Biotech",
     "KarmaType": null
   },
   "UV_VoidHoldingPlatform": {
@@ -96799,13 +95899,13 @@
     "Mod": "Loot Boxes (Continued)",
     "KarmaType": null
   },
-  "RazorWire": {
+  "Gun_HellsphereCannon": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
-    "IsRanged": false,
+    "IsRanged": true,
     "IsStuffAllowed": true,
-    "IsWeapon": false,
+    "IsWeapon": true,
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
@@ -96816,16 +95916,16 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Barbs And Moats",
+    "Mod": "Biotech",
     "KarmaType": null
   },
-  "RazorWireGate": {
+  "Gun_Needle": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
-    "IsRanged": false,
+    "IsRanged": true,
     "IsStuffAllowed": true,
-    "IsWeapon": false,
+    "IsWeapon": true,
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
@@ -96836,7 +95936,7 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Barbs And Moats",
+    "Mod": "RimWorld",
     "KarmaType": null
   },
   "Bart_DeepScanner": {
@@ -96957,6 +96057,426 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "Mythical ores",
+    "KarmaType": null
+  },
+  "Gun_InfernoCannon": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": false,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "RimWorld",
+    "KarmaType": null
+  },
+  "GravBattery": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": false,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "GravTech",
+    "KarmaType": null
+  },
+  "HeaterPylon_GT": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": false,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "GravTech",
+    "KarmaType": null
+  },
+  "CoolerPylon_GT": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": false,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "GravTech",
+    "KarmaType": null
+  },
+  "GravDecreasePylon_GT": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": false,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "GravTech",
+    "KarmaType": null
+  },
+  "GravIncreasePylon_GT": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": false,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "GravTech",
+    "KarmaType": null
+  },
+  "RoughGravlitePanel": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": false,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "GravTech",
+    "KarmaType": null
+  },
+  "MA_SivatheriumHorn": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": true,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": false,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Mythic Ages: Megafauna Bestiary",
+    "KarmaType": null
+  },
+  "MA_SivaDustIvory": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Mythic Ages: Megafauna Bestiary",
+    "KarmaType": null
+  },
+  "MA_SivatheriumMeat": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Mythic Ages: Megafauna Bestiary",
+    "KarmaType": null
+  },
+  "MA_Leather_Sivatherium": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": false,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Mythic Ages: Megafauna Bestiary",
+    "KarmaType": null
+  },
+  "MA_Leather_Simbakub": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": false,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Mythic Ages: Megafauna Bestiary",
+    "KarmaType": null
+  },
+  "MA_Leather_SimbakubAlpha": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": false,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Mythic Ages: Megafauna Bestiary",
+    "KarmaType": null
+  },
+  "MA_Simbakub": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": false,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Mythic Ages: Megafauna Bestiary",
+    "KarmaType": null
+  },
+  "MA_SimbakubAlpha": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": false,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Mythic Ages: Megafauna Bestiary",
+    "KarmaType": null
+  },
+  "MA_Sivatherium": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": false,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Mythic Ages: Megafauna Bestiary",
+    "KarmaType": null
+  },
+  "MA_DuskSpear": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": true,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": false,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Mythic Ages: Megafauna Bestiary",
+    "KarmaType": null
+  },
+  "MA_BirdMeat": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Mythic Ages: Megafauna Bestiary",
+    "KarmaType": null
+  },
+  "MA_PlastemmothAlpha": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": false,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Mythic Ages: Megafauna Bestiary",
+    "KarmaType": null
+  },
+  "ShieldPylon_GT": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": false,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "GravTech",
+    "KarmaType": null
+  },
+  "GravBeamCannon": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": false,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "GravTech",
     "KarmaType": null
   }
 }
