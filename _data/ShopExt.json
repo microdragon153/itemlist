@@ -5016,7 +5016,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy acts funny in the day-to-day life. he silly nature often amuses others.\n(The Sims Traits)",
+      "description": "Timmy acts funny in the day-to-day life. his silly nature often amuses others.\n(The Sims Traits)",
       "stats": [],
       "conflicts": [
         "snob"
@@ -5710,7 +5710,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy has a pair of keen eyes that scans through every detail and miss no strange things.\n(The Sims Traits)",
+      "description": "Timmy has a pair of keen eyes that scans through every detail and miss no strange things. he can even spot distant ships while stargazing through a telescope.\n(The Sims Traits)",
       "stats": [],
       "conflicts": [
         "naive",
@@ -5857,6 +5857,28 @@
       },
       "defName": "ST_Insomniac",
       "name": "insomniac"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy's body accepts archite alterations with unnatural ease. he will never suffer rejections during the injection process.\n(Vanilla Quests Expanded - Ancients)",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Quests Expanded - Ancients",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VQE_IdealPatient",
+      "name": "idealpatient"
     }
   ],
   "races": [
