@@ -27315,7 +27315,7 @@
 	{
 		"abr": "gravbattery",
 		"price": 2667,
-		"category": "Power",
+		"category": "Misc",
 		"defname": "GravBattery"
 	},
 	{
@@ -29388,6 +29388,120 @@
 		"category": "Weapon kits",
 		"defname": "AArmoury_WeaponKit"
 	},
+	{
+		"abr": "wheeledbed",
+		"price": 207,
+		"category": "Furniture",
+		"defname": "VQEA_WheeledBed"
+	},
+	{
+		"abr": "wildgreens",
+		"price": 0,
+		"category": "Vegetarian",
+		"defname": "WildGreens"
+	},
+	{
+		"abr": "archotechear",
+		"price": 2000,
+		"category": "Archotech",
+		"defname": "SoSArchotechEar"
+	},
+	{
+		"abr": "archotechheart",
+		"price": 4667,
+		"category": "Archotech",
+		"defname": "SoSArchotechHeart"
+	},
+	{
+		"abr": "archotechjaw",
+		"price": 2000,
+		"category": "Archotech",
+		"defname": "SoSArchotechJaw"
+	},
+	{
+		"abr": "archotechkidney",
+		"price": 2000,
+		"category": "Archotech",
+		"defname": "SoSArchotechKidney"
+	},
+	{
+		"abr": "archotechliver",
+		"price": 2000,
+		"category": "Archotech",
+		"defname": "SoSArchotechLiver"
+	},
+	{
+		"abr": "archotechlung",
+		"price": 4667,
+		"category": "Archotech",
+		"defname": "SoSArchotechLung"
+	},
+	{
+		"abr": "archotechnose",
+		"price": 2000,
+		"category": "Archotech",
+		"defname": "SoSArchotechNose"
+	},
+	{
+		"abr": "archotechskin",
+		"price": 4667,
+		"category": "Archotech",
+		"defname": "SoSArchotechSkin"
+	},
+	{
+		"abr": "archotechspine",
+		"price": 4667,
+		"category": "Archotech",
+		"defname": "SoSArchotechSpine"
+	},
+	{
+		"abr": "archotechstomach",
+		"price": 4667,
+		"category": "Archotech",
+		"defname": "SoSArchotechStomach"
+	},
+	{
+		"abr": "commsimplant",
+		"price": 833,
+		"category": "Prosthetic",
+		"defname": "LTS_CommsImplant"
+	},
+	{
+		"abr": "neurostreamer",
+		"price": 833,
+		"category": "Prosthetic",
+		"defname": "LTS_Neurostreamer"
+	},
+	{
+		"abr": "over-wallvent(wide)",
+		"price": 97,
+		"category": "Misc",
+		"defname": "Vent_Over2W"
+	},
+	{
+		"abr": "psychicmanipulator",
+		"price": 3333,
+		"category": "Archotech",
+		"defname": "SoSPsychicManipulator"
+	},
+	{
+		"abr": "psychicpredictor",
+		"price": 2333,
+		"category": "Archotech",
+		"defname": "SoSPsychicPredictor"
+	},
+	{
+		"abr": "cryptocoagulator",
+		"price": 1667,
+		"category": "Bionic",
+		"defname": "LTS_CryptoCoagulator"
+	},
+	{
+		"abr": "jotunnskingland",
+		"price": 1667,
+		"category": "Bionic",
+		"defname": "LTS_JotunnskinGland"
+	}
 	],
-	"total": 4900
+	"total": 4917
 }
