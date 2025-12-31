@@ -5369,12 +5369,16 @@
       "removePrice": 5500,
       "degree": 0,
       "description": "Timmy can feel a pea under twenty mattresses while sleeping. he is born blue blood with expensive taste and trivial problems.\n(The Sims Traits)",
-      "stats": [],
+      "stats": [
+        "x125% intimacy need multiplier"
+      ],
       "conflicts": [],
       "bypassLimit": false,
       "data": {
         "conflicts": [],
-        "stats": [],
+        "stats": [
+          "x125% intimacy need multiplier"
+        ],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
@@ -5441,7 +5445,9 @@
       "removePrice": 5500,
       "degree": 0,
       "description": "Timmy enjoys chaos and takes the extreme side in life. he can’t quit the adrenaline rush from being reckless.\n(The Sims Traits)",
-      "stats": [],
+      "stats": [
+        "Flame meditation focus type allowed."
+      ],
       "conflicts": [
         "squeamish",
         "wimp"
@@ -5452,7 +5458,9 @@
           "squeamish",
           "wimp"
         ],
-        "stats": [],
+        "stats": [
+          "Flame meditation focus type allowed."
+        ],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
@@ -5879,6 +5887,68 @@
       },
       "defName": "VQE_IdealPatient",
       "name": "idealpatient"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is comfortable with isolation. he does not have a need for intimacy.\n(Intimacy - A Lovin' Expansion)",
+      "stats": [],
+      "conflicts": [
+        "affectionate",
+        "psychopath"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "affectionate",
+          "psychopath"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Intimacy - A Lovin' Expansion",
+        "karmaTypeForAdding": null
+      },
+      "defName": "SEX_Solitary",
+      "name": "solitary"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is quite the social butterfly. he has an increased need for intimacy.\n(Intimacy - A Lovin' Expansion)",
+      "stats": [
+        "x200% global certainty loss factor",
+        "x150% intimacy need multiplier"
+      ],
+      "conflicts": [
+        "solitary",
+        "psychopath"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "solitary",
+          "psychopath"
+        ],
+        "stats": [
+          "x200% global certainty loss factor",
+          "x150% intimacy need multiplier"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Intimacy - A Lovin' Expansion",
+        "karmaTypeForAdding": null
+      },
+      "defName": "SEX_Affectionate",
+      "name": "affectionate"
     }
   ],
   "races": [
