@@ -562,7 +562,7 @@
       "abr": "grave",
       "category": "Misc",
       "defname": "Grave",
-      "price": 5
+      "price": -10
     },
     {
       "abr": "sarcophagus",
@@ -1682,37 +1682,37 @@
     },
     {
       "abr": "platearmor",
-      "category": "Medieval armor",
+      "category": "Armor",
       "defname": "Apparel_PlateArmor",
       "price": 792
     },
     {
       "abr": "flakvest",
-      "category": "Industrial armor",
+      "category": "Armor",
       "defname": "Apparel_FlakVest",
       "price": 375
     },
     {
       "abr": "flakpants",
-      "category": "Industrial armor",
+      "category": "Armor",
       "defname": "Apparel_FlakPants",
       "price": 375
     },
     {
       "abr": "flakjacket",
-      "category": "Industrial armor",
+      "category": "Armor",
       "defname": "Apparel_FlakJacket",
       "price": 483
     },
     {
       "abr": "marinearmor",
-      "category": "Spacer armor",
+      "category": "Armor",
       "defname": "Apparel_PowerArmor",
       "price": 3392
     },
     {
       "abr": "reconarmor",
-      "category": "Spacer armor",
+      "category": "Armor",
       "defname": "Apparel_ArmorRecon",
       "price": 2567
     },
@@ -2708,7 +2708,7 @@
     },
     {
       "abr": "prestigereconarmor",
-      "category": "Spacer armor",
+      "category": "Armor",
       "defname": "Apparel_ArmorReconPrestige",
       "price": 3567
     },
@@ -2720,7 +2720,7 @@
     },
     {
       "abr": "prestigemarinearmor",
-      "category": "Spacer armor",
+      "category": "Armor",
       "defname": "Apparel_ArmorMarinePrestige",
       "price": 4500
     },
@@ -2732,7 +2732,7 @@
     },
     {
       "abr": "cataphractarmor",
-      "category": "Spacer armor",
+      "category": "Armor",
       "defname": "Apparel_ArmorCataphract",
       "price": 5200
     },
@@ -2744,7 +2744,7 @@
     },
     {
       "abr": "prestigecataphractarmor",
-      "category": "Spacer armor",
+      "category": "Armor",
       "defname": "Apparel_ArmorCataphractPrestige",
       "price": 6825
     },
@@ -2756,19 +2756,19 @@
     },
     {
       "abr": "locustarmor",
-      "category": "Spacer armor",
+      "category": "Armor",
       "defname": "Apparel_ArmorLocust",
       "price": 3717
     },
     {
       "abr": "grenadierarmor",
-      "category": "Spacer armor",
+      "category": "Armor",
       "defname": "Apparel_ArmorMarineGrenadier",
       "price": 3842
     },
     {
       "abr": "phoenixarmor",
-      "category": "Spacer armor",
+      "category": "Armor",
       "defname": "Apparel_ArmorCataphractPhoenix",
       "price": 5800
     },
@@ -3764,7 +3764,7 @@
     },
     {
       "abr": "mechlordsuit",
-      "category": "Spacer armor",
+      "category": "Armor",
       "defname": "Apparel_MechlordSuit",
       "price": 11692
     },
@@ -4862,7 +4862,7 @@
     },
     {
       "abr": "prestigeplatearmor",
-      "category": "Medieval armor",
+      "category": "Armor",
       "defname": "VPE_Apparel_PlateArmorPrestige",
       "price": 1400
     },
@@ -6032,13 +6032,13 @@
     },
     {
       "abr": "mechmastersuit",
-      "category": "Spacer armor",
+      "category": "Armor",
       "defname": "AM_MechCommanderSuit",
       "price": 13042
     },
     {
       "abr": "mechbreakerarmor",
-      "category": "Spacer armor",
+      "category": "Armor",
       "defname": "AM_MechBreakerArmor",
       "price": 16667
     },
@@ -6530,7 +6530,7 @@
     },
     {
       "abr": "prestigetrooperarmor",
-      "category": "Spacer armor",
+      "category": "Armor",
       "defname": "VAE_Apparel_RoyalTrooperArmor",
       "price": 2708
     },
@@ -6542,31 +6542,31 @@
     },
     {
       "abr": "prestigesiegebreakerarmor",
-      "category": "Spacer armor",
+      "category": "Armor",
       "defname": "VAE_Apparel_RoyalSiegeArmor",
       "price": 7033
     },
     {
       "abr": "plateboots",
-      "category": "Medieval armor",
+      "category": "Armor",
       "defname": "VAE_Footwear_PlateBoots",
       "price": 207
     },
     {
       "abr": "marineboots",
-      "category": "Spacer armor",
+      "category": "Armor",
       "defname": "VAE_Footwear_MarineBoots",
       "price": 733
     },
     {
       "abr": "plategloves",
-      "category": "Medieval armor",
+      "category": "Armor",
       "defname": "VAE_Handwear_PlateGloves",
       "price": 173
     },
     {
       "abr": "marinegloves",
-      "category": "Spacer armor",
+      "category": "Armor",
       "defname": "VAE_Handwear_MarineGloves",
       "price": 733
     },
@@ -6590,31 +6590,31 @@
     },
     {
       "abr": "quiltedvest",
-      "category": "Medieval armor",
+      "category": "Armor",
       "defname": "VAE_Apparel_QuiltedVest",
       "price": 210
     },
     {
       "abr": "lightplatearmor",
-      "category": "Medieval armor",
+      "category": "Armor",
       "defname": "VAE_Apparel_LightPlateArmor",
       "price": 542
     },
     {
       "abr": "plateshoulderpads",
-      "category": "Medieval armor",
+      "category": "Armor",
       "defname": "VAE_Apparel_PlateShoulderpads",
       "price": 181
     },
     {
       "abr": "chestplate",
-      "category": "Medieval armor",
+      "category": "Armor",
       "defname": "VAE_Apparel_Chestplate",
       "price": 383
     },
     {
       "abr": "chainmail",
-      "category": "Medieval armor",
+      "category": "Armor",
       "defname": "VAE_Apparel_Chainmail",
       "price": 417
     },
@@ -6626,7 +6626,7 @@
     },
     {
       "abr": "woodenarmor",
-      "category": "Neolithic armor",
+      "category": "Armor",
       "defname": "VAE_Apparel_WoodenArmor",
       "price": 286
     },
@@ -6638,7 +6638,7 @@
     },
     {
       "abr": "riotarmor",
-      "category": "Industrial armor",
+      "category": "Armor",
       "defname": "VAE_Apparel_RiotArmor",
       "price": 667
     },
@@ -6662,7 +6662,7 @@
     },
     {
       "abr": "trooperarmor",
-      "category": "Spacer armor",
+      "category": "Armor",
       "defname": "VAE_Apparel_TrooperArmor",
       "price": 1917
     },
@@ -6674,7 +6674,7 @@
     },
     {
       "abr": "siegebreakerarmor",
-      "category": "Spacer armor",
+      "category": "Armor",
       "defname": "VAE_Apparel_HeavyMarineArmor",
       "price": 5367
     },
@@ -8480,19 +8480,19 @@
     },
     {
       "abr": "prestigemechlordsuit",
-      "category": "Spacer armor",
+      "category": "Armor",
       "defname": "AM_Apparel_MechlordSuit_Prestige",
       "price": 12800
     },
     {
       "abr": "prestigemechmastersuit",
-      "category": "Spacer armor",
+      "category": "Armor",
       "defname": "AM_PrestigeMechCommanderSuit",
       "price": 14150
     },
     {
       "abr": "prestigemechbreakerarmor",
-      "category": "Spacer armor",
+      "category": "Armor",
       "defname": "AM_PrestigeMechBreakerArmor",
       "price": 17958
     },
@@ -8798,7 +8798,7 @@
     },
     {
       "abr": "wartribalwear",
-      "category": "Neolithic armor",
+      "category": "Armor",
       "defname": "VFET_Apparel_TribalWar",
       "price": 417
     },
@@ -9344,7 +9344,7 @@
     },
     {
       "abr": "cryptoarmor",
-      "category": "Ultra-tech armor",
+      "category": "Armor",
       "defname": "VQE_CryptoArmor",
       "price": 2567
     },
@@ -9392,7 +9392,7 @@
     },
     {
       "abr": "heavycryptoarmor",
-      "category": "Ultra-tech armor",
+      "category": "Armor",
       "defname": "VQE_CryptoHeavyArmor",
       "price": 5900
     },
@@ -9617,12 +9617,6 @@
       "category": "Misc",
       "defname": "AM_RaidSpawner",
       "price": 12
-    },
-    {
-      "abr": "saplingchild",
-      "category": "Misc",
-      "defname": "VRE_SaplingchildTree",
-      "price": -10
     },
     {
       "abr": "slabpew",
@@ -10778,7 +10772,7 @@
     },
     {
       "abr": "absolverarmor",
-      "category": "Spacer armor",
+      "category": "Armor",
       "defname": "VFEE_Apparel_ArmorAbsolver",
       "price": 5333
     },
@@ -10880,7 +10874,7 @@
     },
     {
       "abr": "deserterarmor",
-      "category": "Spacer armor",
+      "category": "Armor",
       "defname": "VFEE_Apparel_ArmorDeserter",
       "price": 6883
     },
@@ -11000,7 +10994,7 @@
     },
     {
       "abr": "janissarycuirass",
-      "category": "Spacer armor",
+      "category": "Armor",
       "defname": "VFEE_Apparel_JanissaryCuirass",
       "price": 2567
     },
@@ -11225,12 +11219,6 @@
       "category": "Techprints",
       "defname": "Techprint_VFED_ImperialWarSolutions",
       "price": 3333
-    },
-    {
-      "abr": "techprinter",
-      "category": "Misc",
-      "defname": "VFED_Techprinter",
-      "price": 4183
     },
     {
       "abr": "toxblade",
@@ -11824,7 +11812,7 @@
       "abr": "gravengine",
       "category": "Misc",
       "defname": "GravEngine",
-      "price": 3333
+      "price": 7777
     },
     {
       "abr": "gravfieldextender",
@@ -11948,7 +11936,7 @@
     },
     {
       "abr": "kidvacsuit",
-      "category": "Kid armor",
+      "category": "Armor",
       "defname": "Apparel_VacsuitChildren",
       "price": 575
     },
@@ -12236,7 +12224,7 @@
     },
     {
       "abr": "privateerarmor",
-      "category": "Spacer armor",
+      "category": "Armor",
       "defname": "VFEP_Apparel_Privateer",
       "price": 3692
     },
@@ -12560,7 +12548,7 @@
     },
     {
       "abr": "vacsuit",
-      "category": "Spacer armor",
+      "category": "Armor",
       "defname": "Apparel_Vacsuit",
       "price": 1033
     },
@@ -13066,7 +13054,7 @@
       "abr": "airdrop",
       "category": "Misc",
       "defname": "Airdrop",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "aisr2g",
@@ -14530,7 +14518,7 @@
       "abr": "archotechgrowthcell",
       "category": "Growth cells",
       "defname": "GR_ArchoGrowthcell",
-      "price": 75
+      "price": -10
     },
     {
       "abr": "archotechshieldbelt",
@@ -16250,7 +16238,7 @@
     },
     {
       "abr": "centurionarmor",
-      "category": "Neolithic armor",
+      "category": "Armor",
       "defname": "VFEC_Apparel_CenturionArmor",
       "price": 733
     },
@@ -17518,7 +17506,7 @@
       "abr": "fleshgrowth",
       "category": "Animals",
       "defname": "GR_FleshGrowth",
-      "price": 170
+      "price": -10
     },
     {
       "abr": "fleshmonstrosity",
@@ -17630,7 +17618,7 @@
     },
     {
       "abr": "forsakenarmor",
-      "category": "Spacer armor",
+      "category": "Armor",
       "defname": "AG_ForsakenMarineArmor",
       "price": 5858
     },
@@ -17666,7 +17654,7 @@
     },
     {
       "abr": "forsakencloak",
-      "category": "Spacer armor",
+      "category": "Armor",
       "defname": "AG_ForsakenCloak",
       "price": 1125
     },
@@ -17690,7 +17678,7 @@
     },
     {
       "abr": "forsakenkidcloak",
-      "category": "Kid armor",
+      "category": "Armor",
       "defname": "AG_ForsakenCloak_Child",
       "price": 708
     },
@@ -18400,7 +18388,7 @@
       "abr": "growthcell",
       "category": "Growth cells",
       "defname": "GR_GrowthCell",
-      "price": 75
+      "price": -10
     },
     {
       "abr": "haddock",
@@ -18506,7 +18494,7 @@
     },
     {
       "abr": "heavyleatherarmor",
-      "category": "Medieval armor",
+      "category": "Armor",
       "defname": "VFEM2_Apparel_HeavyLeatherArmor",
       "price": 958
     },
@@ -18524,7 +18512,7 @@
     },
     {
       "abr": "heavyplatearmor",
-      "category": "Medieval armor",
+      "category": "Armor",
       "defname": "VFEM2_Apparel_PlateArmorHeavy",
       "price": 1158
     },
@@ -19124,7 +19112,7 @@
     },
     {
       "abr": "leatherarmor",
-      "category": "Medieval armor",
+      "category": "Armor",
       "defname": "VFEM2_Apparel_LeatherArmor",
       "price": 825
     },
@@ -19142,7 +19130,7 @@
     },
     {
       "abr": "legionnairearmor",
-      "category": "Neolithic armor",
+      "category": "Armor",
       "defname": "VFEC_Apparel_LegionnaireArmor",
       "price": 650
     },
@@ -19576,7 +19564,7 @@
       "abr": "mechathrumbo",
       "category": "Animals",
       "defname": "GR_Mechathrumbo",
-      "price": 6667
+      "price": 30000
     },
     {
       "abr": "mechaturtle",
@@ -20162,7 +20150,7 @@
     },
     {
       "abr": "paddedarmor",
-      "category": "Medieval armor",
+      "category": "Armor",
       "defname": "VFEM2_Apparel_PaddedArmor",
       "price": 342
     },
@@ -21464,7 +21452,7 @@
     },
     {
       "abr": "tabard",
-      "category": "Medieval armor",
+      "category": "Armor",
       "defname": "VFEM2_Apparel_Tabard",
       "price": 57
     },
@@ -26407,12 +26395,6 @@
       "price": 750
     },
     {
-      "abr": "sunblocker",
-      "category": "Misc",
-      "defname": "Reverse_Engineered_SunBlocker",
-      "price": 9200
-    },
-    {
       "abr": "sunblockerfieldgenerator",
       "category": "Misc",
       "defname": "AccessRelay_SunBlocker",
@@ -26633,12 +26615,6 @@
       "category": "Misc",
       "defname": "UV_ResearchBenchButcher",
       "price": 274
-    },
-    {
-      "abr": "goldprototype",
-      "category": "Misc",
-      "defname": "UV_GoldenPrototype",
-      "price": 2000
     },
     {
       "abr": "goldencanary",
@@ -27169,48 +27145,6 @@
       "price": -10
     },
     {
-      "abr": "largecommonchest",
-      "category": "Loot boxes",
-      "defname": "LootBoxSilverLarge",
-      "price": 1000
-    },
-    {
-      "abr": "largegoldenchest",
-      "category": "Loot boxes",
-      "defname": "LootBoxGoldLarge",
-      "price": 1500
-    },
-    {
-      "abr": "mysteriousredchest",
-      "category": "Production",
-      "defname": "LootBoxBench",
-      "price": 750
-    },
-    {
-      "abr": "pandorasbox",
-      "category": "Loot boxes",
-      "defname": "LootBoxPandora",
-      "price": 2000
-    },
-    {
-      "abr": "smallcommonchest",
-      "category": "Loot boxes",
-      "defname": "LootBoxSilverSmall",
-      "price": 500
-    },
-    {
-      "abr": "smallgoldenchest",
-      "category": "Loot boxes",
-      "defname": "LootBoxGoldSmall",
-      "price": 750
-    },
-    {
-      "abr": "treasurechest",
-      "category": "Loot boxes",
-      "defname": "LootBoxTreasure",
-      "price": 1000
-    },
-    {
       "abr": "direhorse",
       "category": "Animals",
       "defname": "MA_Direhorse",
@@ -27542,7 +27476,7 @@
     },
     {
       "abr": "psyring",
-      "category": "Ultra-tech utilities",
+      "category": "Utility",
       "defname": "VPE_Psyring",
       "price": 2000
     },
@@ -29585,7 +29519,163 @@
       "category": "Production",
       "defname": "Ferny_VanityTable",
       "price": 262
+    },
+    {
+      "abr": "overclockbroadcast",
+      "category": "Mechtech",
+      "defname": "UV_OverclockBroadcast",
+      "price": 2000
+    },
+    {
+      "abr": "quantumcoherencechip",
+      "category": "Manufactured",
+      "defname": "UV_QuantumCoherenceChip",
+      "price": 833
+    },
+    {
+      "abr": "goldprototype",
+      "category": "Misc",
+      "defname": "UV_GoldenPrototype",
+      "price": 2000
+    },
+    {
+      "abr": "passengershuttle",
+      "category": "Misc",
+      "defname": "TMM_VF_PassengerShuttle_Blueprint",
+      "price": 9517
+    },
+    {
+      "abr": "passengershuttle",
+      "category": "Animal",
+      "defname": "TMM_VF_PassengerShuttle",
+      "price": 10000
+    },
+    {
+      "abr": "apparelbox",
+      "category": "Loot boxes",
+      "defname": "ARandom_ApparelLootBox",
+      "price": 750
+    },
+    {
+      "abr": "benignarchotechfatemanipulator",
+      "category": "Fate manipulation devices",
+      "defname": "ARandom_FateManipulator_Benign",
+      "price": 2000
+    },
+    {
+      "abr": "booksbox",
+      "category": "Loot boxes",
+      "defname": "ARandom_BooksBox",
+      "price": 750
+    },
+    {
+      "abr": "chaoticarchotechfatemanipulator",
+      "category": "Fate manipulation devices",
+      "defname": "ARandom_FateManipulator_Chaotic",
+      "price": 5000
+    },
+    {
+      "abr": "darkarchotechfatemanipulator",
+      "category": "Fate manipulation devices",
+      "defname": "ARandom_FateManipulator_Dark",
+      "price": 2000
+    },
+    {
+      "abr": "drinksbox",
+      "category": "Loot boxes",
+      "defname": "ARandom_DrinksBox",
+      "price": 750
+    },
+    {
+      "abr": "drugsbox",
+      "category": "Loot boxes",
+      "defname": "ARandom_DrugsLootBox",
+      "price": 750
+    },
+    {
+      "abr": "hemogencrate",
+      "category": "Loot boxes",
+      "defname": "ARandom_HemogenCrate",
+      "price": 300
+    },
+    {
+      "abr": "high-valuelootbox",
+      "category": "Loot boxes",
+      "defname": "ARandom_LootBox_High",
+      "price": 3000
+    },
+    {
+      "abr": "inertarchotechfatemanipulator",
+      "category": "Fate manipulation devices",
+      "defname": "ARandom_FateManipulator",
+      "price": 1250
+    },
+    {
+      "abr": "lootbox",
+      "category": "Loot boxes",
+      "defname": "ARandom_LootBox",
+      "price": 1000
+    },
+    {
+      "abr": "materialsbox",
+      "category": "Loot boxes",
+      "defname": "ARandom_MaterialsLootBox",
+      "price": 500
+    },
+    {
+      "abr": "mealsbox",
+      "category": "Loot boxes",
+      "defname": "ARandom_MealsBox",
+      "price": 500
+    },
+    {
+      "abr": "medicinebox",
+      "category": "Loot boxes",
+      "defname": "ARandom_MedicineLootBox",
+      "price": 750
+    },
+    {
+      "abr": "producebox",
+      "category": "Loot boxes",
+      "defname": "ARandom_ProduceBox",
+      "price": 750
+    },
+    {
+      "abr": "shellsbox",
+      "category": "Loot boxes",
+      "defname": "ARandom_ShellsLootBox",
+      "price": 500
+    },
+    {
+      "abr": "textilesbox",
+      "category": "Loot boxes",
+      "defname": "ARandom_TextilesLootBox",
+      "price": 500
+    },
+    {
+      "abr": "tribalbox",
+      "category": "Loot boxes",
+      "defname": "ARandom_TribalLootBox",
+      "price": 500
+    },
+    {
+      "abr": "valuablesbox",
+      "category": "Loot boxes",
+      "defname": "ARandom_ValuablesLootBox",
+      "price": 4000
+    },
+    {
+      "abr": "veryhigh-valuelootbox",
+      "category": "Loot boxes",
+      "defname": "ARandom_LootBox_SuperHigh",
+      "price": 6000
+    },
+    {
+      "abr": "weaponsbox",
+      "category": "Loot boxes",
+      "defname": "ARandom_WeaponsBox",
+      "price": 2000
     }
   ],
-  "total": 4931
+  "total": 4946
 }
